@@ -1,0 +1,23 @@
+/* Softly Rising — brand tokens */
+@font-face { font-family: "Cormorant"; font-weight: 500; src: url("../node_modules/@fontsource/cormorant-garamond/files/cormorant-garamond-latin-500-normal.woff2") format("woff2"); }
+@font-face { font-family: "Cormorant"; font-weight: 600; src: url("../node_modules/@fontsource/cormorant-garamond/files/cormorant-garamond-latin-600-normal.woff2") format("woff2"); }
+@font-face { font-family: "Cormorant"; font-weight: 500; font-style: italic; src: url("../node_modules/@fontsource/cormorant-garamond/files/cormorant-garamond-latin-500-italic.woff2") format("woff2"); }
+@font-face { font-family: "Jost"; font-weight: 300; src: url("../node_modules/@fontsource/jost/files/jost-latin-300-normal.woff2") format("woff2"); }
+@font-face { font-family: "Jost"; font-weight: 400; src: url("../node_modules/@fontsource/jost/files/jost-latin-400-normal.woff2") format("woff2"); }
+
+:root {
+  --night-0: #070917;   /* deepest sky */
+  --night-1: #0d1030;   /* sky */
+  --night-2: #1b1c4a;   /* mid sky */
+  --dusk:    #3a2a62;   /* violet near horizon */
+  --rose:    #e3a1b4;   /* dawn rose */
+  --rose-d:  #c9768f;
+  --gold:    #e8c47a;   /* primary accent */
+  --gold-l:  #f6e2ae;
+  --pearl:   #f5efe3;   /* moon */
+  --mist:    #b8b5d6;   /* secondary text */
+}
+html, body { margin: 0; padding: 0; background: var(--night-0); }
+* { box-sizing: border-box; }
+.title { font-family: "Cormorant", serif; font-weight: 500; color: var(--gold-l); letter-spacing: 0.02em; }
+.label { font-family: "Jost", sans-serif; font-weight: 300; color: var(--mist); letter-spacing: 0.32em; text-transform: uppercase; }

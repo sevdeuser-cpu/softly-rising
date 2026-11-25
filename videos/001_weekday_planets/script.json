@@ -1,0 +1,68 @@
+{
+ "title": "The Day You Were Born Is Named After a Planet",
+ "voice": "af_nicole:0.7,af_heart:0.3",
+ "speed": 1.1,
+ "segments": [
+  {
+   "id": "hook",
+   "text": "The day of the week you were born is secretly named after a planet."
+  },
+  {
+   "id": "intro",
+   "text": "Ancient astrologers gave each day to a planet. And English never forgot."
+  },
+  {
+   "id": "sun",
+   "day": "SUNDAY",
+   "root": "SUN",
+   "sub": "the Sun's day",
+   "text": "Sunday is the Sun's day. You were born to be seen."
+  },
+  {
+   "id": "moon",
+   "day": "MONDAY",
+   "root": "MON",
+   "sub": "the Moon's day",
+   "text": "Monday belongs to the Moon. You feel everything first."
+  },
+  {
+   "id": "mars",
+   "day": "TUESDAY",
+   "root": "TUES",
+   "sub": "Tiw's day \u00b7 Mars",
+   "text": "Tuesday is Tiw's day, a god of war. That's Mars. You're braver than you know."
+  },
+  {
+   "id": "mercury",
+   "day": "WEDNESDAY",
+   "root": "WEDNES",
+   "sub": "Woden's day \u00b7 Mercury",
+   "text": "Wednesday is Woden's day. That's Mercury. Your words open doors."
+  },
+  {
+   "id": "jupiter",
+   "day": "THURSDAY",
+   "root": "THURS",
+   "sub": "Thor's day \u00b7 Jupiter",
+   "text": "Thursday is Thor's day. That's Jupiter, planet of luck. It follows you."
+  },
+  {
+   "id": "venus",
+   "day": "FRIDAY",
+   "root": "FRI",
+   "sub": "Frigg's day \u00b7 Venus",
+   "text": "Friday is Frigg's day. That's Venus. People fall for your softness."
+  },
+  {
+   "id": "saturn",
+   "day": "SATURDAY",
+   "root": "SATUR",
+   "sub": "Saturn's day",
+   "text": "Saturday still carries Saturn's name. Slow, steady, unbreakable."
+  },
+  {
+   "id": "cta",
+   "text": "Which day were you born? Tell me below, and send this to someone born on yours."
+  }
+ ]
+}

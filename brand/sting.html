@@ -1,0 +1,53 @@
+<!doctype html><html><head><meta charset="utf-8"><link rel="stylesheet" href="brand.css">
+<style>body{overflow:hidden;position:relative}
+#bg,#glow{position:absolute;inset:0}
+#bg{background:linear-gradient(180deg,#070917 0%,#0d1030 35%,#1b1c4a 60%,#3a2a62 72%,#120d2a 73%,#070917 100%)}
+#glow{background:radial-gradient(55% 30% at 50% 72%, rgba(227,161,180,.35), rgba(0,0,0,0) 70%)}
+svg{position:absolute}
+#txt{position:absolute;left:0;right:0;text-align:center}
+.t{margin:0;line-height:1}
+.t span{display:inline-block;will-change:transform,opacity,filter}
+.tag{font-family:"Cormorant",serif;font-style:italic;font-weight:500;color:var(--rose)}
+.cta{margin-top:1.4em}
+</style></head><body>
+<div id="bg"></div><div id="glow"></div>
+<svg id="stars"></svg><svg id="mark" viewBox="0 0 200 200"></svg><svg id="flash" viewBox="0 0 200 200"></svg>
+<div id="txt"><h1 class="title t" id="title"></h1><div class="tag" id="tag">the sky, gently explained</div><div class="label cta" id="cta"></div></div>
+<script src="brand.js"></script><script>
+const q=new URLSearchParams(location.search); const W=+q.get('w'), H=+q.get('h'); const outro=q.get('mode')==='outro';
+document.body.style.width=W+'px'; document.body.style.height=H+'px';
+const vertical=H>W, U=Math.min(W,H)/1080;           // unit scale
+const HIT=1.70;
+const st=document.getElementById('stars'); st.setAttribute('width',W); st.setAttribute('height',H);
+// layout
+const markSize=(vertical?760:560)*U, markX=(W-markSize)/2, markY=vertical? H*0.5-markSize*0.78 : H*0.5-markSize*0.72;
+const mk=document.getElementById('mark'), fl=document.getElementById('flash');
+for (const el of [mk,fl]) Object.assign(el.style,{left:markX+'px',top:markY+'px',width:markSize+'px',height:markSize+'px'});
+const txt=document.getElementById('txt'); txt.style.top=(markY+markSize*0.86)+'px';
+const title=document.getElementById('title'); title.style.fontSize=(vertical?150:120)*U+'px';
+title.innerHTML=[...'Softly Rising'].map(c=>`<span>${c===' '?'&nbsp;':c}</span>`).join('');
+const tag=document.getElementById('tag'); tag.style.fontSize=(vertical?58:46)*U+'px'; tag.style.marginTop=22*U+'px';
+const cta=document.getElementById('cta'); cta.style.fontSize=(vertical?30:24)*U+'px';
+cta.textContent= outro ? 'follow for your daily sky' : '';
+// horizon in the sky gradient follows the mark's horizon (y=122/200 of the mark)
+const hzY=(markY+markSize*0.61)/H*100;
+document.getElementById('bg').style.background=`linear-gradient(180deg,#070917 0%,#0d1030 ${hzY*0.5}%,#1b1c4a ${hzY*0.82}%,#3a2a62 ${hzY-0.2}%,#120d2a ${hzY+0.2}%,#070917 100%)`;
+const ease=(x)=>1-Math.pow(1-Math.min(1,Math.max(0,x)),3);
+const easeIO=(x)=>{x=Math.min(1,Math.max(0,x));return x<.5?4*x*x*x:1-Math.pow(-2*x+2,3)/2};
+window.setFrame=(t)=>{
+  st.innerHTML=starfield({w:W,h:H,count:vertical?260:240,seed:21,maxY:H*hzY/100,twinkle:t*0.35,sizeScale:1.5*U});
+  const rise=easeIO(t/HIT);
+  mk.innerHTML=moonMark({id:'s',rise,glow:0.3+0.7*rise,orbitDraw:ease((t-HIT+0.15)/0.9),spark:ease((t-HIT)/0.4),orbit:1});
+  document.getElementById('glow').style.opacity=0.2+0.8*rise;
+  // bell flash ring
+  const f=(t-HIT)/0.9; fl.innerHTML = (f>0&&f<1) ? `<circle cx="100" cy="112" r="${44+f*40}" fill="none" stroke="#f6e2ae" stroke-width="${1.6*(1-f)}" opacity="${0.7*(1-f)}"/>` : '';
+  // title letters
+  [...title.children].forEach((s,i)=>{const p=ease((t-1.85-i*0.045)/0.55);
+    s.style.opacity=p; s.style.transform=`translateY(${(1-p)*18*U}px)`; s.style.filter=`blur(${(1-p)*8*U}px)`;});
+  const pt=ease((t-2.45)/0.6); tag.style.opacity=pt; tag.style.transform=`translateY(${(1-pt)*12*U}px)`;
+  const pc=ease((t-2.9)/0.6); cta.style.opacity=pc;
+  // overall fade out in the last 0.45s
+  const end=+q.get('dur'); document.body.style.opacity = Math.min(1, Math.max(0,(end-t)/0.45));
+};
+window.setFrame(0);
+</script></body></html>

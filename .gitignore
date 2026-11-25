@@ -1,0 +1,10 @@
+node_modules/
+models/
+__pycache__/
+*.pyc
+# heavy render outputs (finished videos are delivered in chat; keep scripts/timelines)
+videos/*/*.mp4
+videos/*/*.wav
+videos/*/render*.log
+out/*.mp4
+out/voice_tests/

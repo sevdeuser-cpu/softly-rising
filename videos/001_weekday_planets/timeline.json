@@ -1,0 +1,578 @@
+{
+ "duration": 54.46,
+ "segments": [
+  {
+   "id": "hook",
+   "text": "The day of the week you were born is secretly named after a planet.",
+   "start": 0.12,
+   "end": 4.955,
+   "words": [
+    {
+     "w": "The",
+     "t": 0.12
+    },
+    {
+     "w": "day",
+     "t": 0.408
+    },
+    {
+     "w": "of",
+     "t": 0.696
+    },
+    {
+     "w": "the",
+     "t": 0.926
+    },
+    {
+     "w": "week",
+     "t": 1.214
+    },
+    {
+     "w": "you",
+     "t": 1.559
+    },
+    {
+     "w": "were",
+     "t": 1.847
+    },
+    {
+     "w": "born",
+     "t": 2.192
+    },
+    {
+     "w": "is",
+     "t": 2.538
+    },
+    {
+     "w": "secretly",
+     "t": 2.768
+    },
+    {
+     "w": "named",
+     "t": 3.343
+    },
+    {
+     "w": "after",
+     "t": 3.746
+    },
+    {
+     "w": "a",
+     "t": 4.149
+    },
+    {
+     "w": "planet.",
+     "t": 4.322
+    }
+   ]
+  },
+  {
+   "id": "intro",
+   "text": "Ancient astrologers gave each day to a planet. And English never forgot.",
+   "start": 5.175,
+   "end": 10.861,
+   "words": [
+    {
+     "w": "Ancient",
+     "t": 5.175
+    },
+    {
+     "w": "astrologers",
+     "t": 5.75
+    },
+    {
+     "w": "gave",
+     "t": 6.581
+    },
+    {
+     "w": "each",
+     "t": 6.964
+    },
+    {
+     "w": "day",
+     "t": 7.347
+    },
+    {
+     "w": "to",
+     "t": 7.667
+    },
+    {
+     "w": "a",
+     "t": 7.922
+    },
+    {
+     "w": "planet.",
+     "t": 8.114
+    },
+    {
+     "w": "And",
+     "t": 8.816
+    },
+    {
+     "w": "English",
+     "t": 9.136
+    },
+    {
+     "w": "never",
+     "t": 9.711
+    },
+    {
+     "w": "forgot.",
+     "t": 10.158
+    }
+   ]
+  },
+  {
+   "id": "sun",
+   "day": "SUNDAY",
+   "root": "SUN",
+   "sub": "the Sun's day",
+   "text": "Sunday is the Sun's day. You were born to be seen.",
+   "start": 11.081,
+   "end": 14.485,
+   "words": [
+    {
+     "w": "Sunday",
+     "t": 11.081
+    },
+    {
+     "w": "is",
+     "t": 11.493
+    },
+    {
+     "w": "the",
+     "t": 11.7
+    },
+    {
+     "w": "Sun's",
+     "t": 11.958
+    },
+    {
+     "w": "day.",
+     "t": 12.319
+    },
+    {
+     "w": "You",
+     "t": 12.731
+    },
+    {
+     "w": "were",
+     "t": 12.989
+    },
+    {
+     "w": "born",
+     "t": 13.299
+    },
+    {
+     "w": "to",
+     "t": 13.608
+    },
+    {
+     "w": "be",
+     "t": 13.815
+    },
+    {
+     "w": "seen.",
+     "t": 14.021
+    }
+   ]
+  },
+  {
+   "id": "moon",
+   "day": "MONDAY",
+   "root": "MON",
+   "sub": "the Moon's day",
+   "text": "Monday belongs to the Moon. You feel everything first.",
+   "start": 14.705,
+   "end": 18.385,
+   "words": [
+    {
+     "w": "Monday",
+     "t": 14.705
+    },
+    {
+     "w": "belongs",
+     "t": 15.138
+    },
+    {
+     "w": "to",
+     "t": 15.625
+    },
+    {
+     "w": "the",
+     "t": 15.842
+    },
+    {
+     "w": "Moon.",
+     "t": 16.112
+    },
+    {
+     "w": "You",
+     "t": 16.599
+    },
+    {
+     "w": "feel",
+     "t": 16.87
+    },
+    {
+     "w": "everything",
+     "t": 17.194
+    },
+    {
+     "w": "first.",
+     "t": 17.844
+    }
+   ]
+  },
+  {
+   "id": "mars",
+   "day": "TUESDAY",
+   "root": "TUES",
+   "sub": "Tiw's day \u00b7 Mars",
+   "text": "Tuesday is Tiw's day, a god of war. That's Mars. You're braver than you know.",
+   "start": 18.605,
+   "end": 23.937,
+   "words": [
+    {
+     "w": "Tuesday",
+     "t": 18.605
+    },
+    {
+     "w": "is",
+     "t": 19.08
+    },
+    {
+     "w": "Tiw's",
+     "t": 19.291
+    },
+    {
+     "w": "day,",
+     "t": 19.661
+    },
+    {
+     "w": "a",
+     "t": 20.083
+    },
+    {
+     "w": "god",
+     "t": 20.241
+    },
+    {
+     "w": "of",
+     "t": 20.505
+    },
+    {
+     "w": "war.",
+     "t": 20.717
+    },
+    {
+     "w": "That's",
+     "t": 21.139
+    },
+    {
+     "w": "Mars.",
+     "t": 21.561
+    },
+    {
+     "w": "You're",
+     "t": 22.036
+    },
+    {
+     "w": "braver",
+     "t": 22.459
+    },
+    {
+     "w": "than",
+     "t": 22.881
+    },
+    {
+     "w": "you",
+     "t": 23.198
+    },
+    {
+     "w": "know.",
+     "t": 23.462
+    }
+   ]
+  },
+  {
+   "id": "mercury",
+   "day": "WEDNESDAY",
+   "root": "WEDNES",
+   "sub": "Woden's day \u00b7 Mercury",
+   "text": "Wednesday is Woden's day. That's Mercury. Your words open doors.",
+   "start": 24.157,
+   "end": 29.103,
+   "words": [
+    {
+     "w": "Wednesday",
+     "t": 24.157
+    },
+    {
+     "w": "is",
+     "t": 24.829
+    },
+    {
+     "w": "Woden's",
+     "t": 25.073
+    },
+    {
+     "w": "day.",
+     "t": 25.622
+    },
+    {
+     "w": "That's",
+     "t": 26.111
+    },
+    {
+     "w": "Mercury.",
+     "t": 26.599
+    },
+    {
+     "w": "Your",
+     "t": 27.332
+    },
+    {
+     "w": "words",
+     "t": 27.698
+    },
+    {
+     "w": "open",
+     "t": 28.126
+    },
+    {
+     "w": "doors.",
+     "t": 28.492
+    }
+   ]
+  },
+  {
+   "id": "jupiter",
+   "day": "THURSDAY",
+   "root": "THURS",
+   "sub": "Thor's day \u00b7 Jupiter",
+   "text": "Thursday is Thor's day. That's Jupiter, planet of luck. It follows you.",
+   "start": 29.323,
+   "end": 34.458,
+   "words": [
+    {
+     "w": "Thursday",
+     "t": 29.323
+    },
+    {
+     "w": "is",
+     "t": 29.881
+    },
+    {
+     "w": "Thor's",
+     "t": 30.104
+    },
+    {
+     "w": "day.",
+     "t": 30.55
+    },
+    {
+     "w": "That's",
+     "t": 30.997
+    },
+    {
+     "w": "Jupiter,",
+     "t": 31.444
+    },
+    {
+     "w": "planet",
+     "t": 32.113
+    },
+    {
+     "w": "of",
+     "t": 32.56
+    },
+    {
+     "w": "luck.",
+     "t": 32.783
+    },
+    {
+     "w": "It",
+     "t": 33.285
+    },
+    {
+     "w": "follows",
+     "t": 33.509
+    },
+    {
+     "w": "you.",
+     "t": 34.011
+    }
+   ]
+  },
+  {
+   "id": "venus",
+   "day": "FRIDAY",
+   "root": "FRI",
+   "sub": "Frigg's day \u00b7 Venus",
+   "text": "Friday is Frigg's day. That's Venus. People fall for your softness.",
+   "start": 34.678,
+   "end": 39.7,
+   "words": [
+    {
+     "w": "Friday",
+     "t": 34.678
+    },
+    {
+     "w": "is",
+     "t": 35.15
+    },
+    {
+     "w": "Frigg's",
+     "t": 35.387
+    },
+    {
+     "w": "day.",
+     "t": 35.918
+    },
+    {
+     "w": "That's",
+     "t": 36.391
+    },
+    {
+     "w": "Venus.",
+     "t": 36.864
+    },
+    {
+     "w": "People",
+     "t": 37.455
+    },
+    {
+     "w": "fall",
+     "t": 37.927
+    },
+    {
+     "w": "for",
+     "t": 38.282
+    },
+    {
+     "w": "your",
+     "t": 38.577
+    },
+    {
+     "w": "softness.",
+     "t": 38.932
+    }
+   ]
+  },
+  {
+   "id": "saturn",
+   "day": "SATURDAY",
+   "root": "SATUR",
+   "sub": "Saturn's day",
+   "text": "Saturday still carries Saturn's name. Slow, steady, unbreakable.",
+   "start": 39.92,
+   "end": 44.981,
+   "words": [
+    {
+     "w": "Saturday",
+     "t": 39.92
+    },
+    {
+     "w": "still",
+     "t": 40.545
+    },
+    {
+     "w": "carries",
+     "t": 40.982
+    },
+    {
+     "w": "Saturn's",
+     "t": 41.544
+    },
+    {
+     "w": "name.",
+     "t": 42.169
+    },
+    {
+     "w": "Slow,",
+     "t": 42.732
+    },
+    {
+     "w": "steady,",
+     "t": 43.294
+    },
+    {
+     "w": "unbreakable.",
+     "t": 43.982
+    }
+   ]
+  },
+  {
+   "id": "cta",
+   "text": "Which day were you born? Tell me below, and send this to someone born on yours.",
+   "start": 45.201,
+   "end": 50.84,
+   "words": [
+    {
+     "w": "Which",
+     "t": 45.201
+    },
+    {
+     "w": "day",
+     "t": 45.588
+    },
+    {
+     "w": "were",
+     "t": 45.865
+    },
+    {
+     "w": "you",
+     "t": 46.197
+    },
+    {
+     "w": "born?",
+     "t": 46.473
+    },
+    {
+     "w": "Tell",
+     "t": 46.971
+    },
+    {
+     "w": "me",
+     "t": 47.302
+    },
+    {
+     "w": "below,",
+     "t": 47.523
+    },
+    {
+     "w": "and",
+     "t": 48.076
+    },
+    {
+     "w": "send",
+     "t": 48.353
+    },
+    {
+     "w": "this",
+     "t": 48.684
+    },
+    {
+     "w": "to",
+     "t": 49.016
+    },
+    {
+     "w": "someone",
+     "t": 49.237
+    },
+    {
+     "w": "born",
+     "t": 49.735
+    },
+    {
+     "w": "on",
+     "t": 50.066
+    },
+    {
+     "w": "yours.",
+     "t": 50.287
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,106 @@
+<!doctype html><html><head><meta charset="utf-8">
+<style>
+@font-face{font-family:"Italiana";src:url("../node_modules/@fontsource/italiana/files/italiana-latin-400-normal.woff2")}
+@font-face{font-family:"Bodoni";font-weight:400;src:url("../node_modules/@fontsource/bodoni-moda/files/bodoni-moda-latin-400-normal.woff2")}
+@font-face{font-family:"Bodoni";font-weight:400;font-style:italic;src:url("../node_modules/@fontsource/bodoni-moda/files/bodoni-moda-latin-400-italic.woff2")}
+@font-face{font-family:"Marcellus";src:url("../node_modules/@fontsource/marcellus/files/marcellus-latin-400-normal.woff2")}
+@font-face{font-family:"Cormorant";font-weight:500;font-style:italic;src:url("../node_modules/@fontsource/cormorant-garamond/files/cormorant-garamond-latin-500-italic.woff2")}
+@font-face{font-family:"Jost";font-weight:300;src:url("../node_modules/@fontsource/jost/files/jost-latin-300-normal.woff2")}
+*{box-sizing:border-box}
+body{margin:0;width:1720px;height:1100px;background:#262626;display:flex;gap:26px;padding:30px;font-family:Jost}
+.col{width:540px;display:flex;flex-direction:column;gap:14px}
+.cap{color:#eee;font:400 26px Jost}.cap small{display:block;color:#aaa;font:300 19px Jost;margin-top:4px}
+.panel{position:relative;width:540px;height:900px;overflow:hidden;border-radius:18px;isolation:isolate}
+.panel>*{position:absolute}
+.blob{border-radius:50%;filter:blur(60px)}
+.ttl{left:0;right:0;text-align:center;line-height:1}
+.tg{left:0;right:0;text-align:center}
+.lab{left:0;right:0;text-align:center;font:300 16px Jost;letter-spacing:.34em}
+.cp{left:44px;right:44px;text-align:center;line-height:1.28}
+.pf{right:22px;bottom:22px;width:112px;height:112px;border-radius:50%;overflow:hidden}
+.pf>*{position:absolute}
+/* iridescent opal surface */
+.opal{border-radius:50%;
+  background:
+    radial-gradient(circle at 34% 28%, rgba(255,255,255,.95) 0 6%, rgba(255,255,255,.35) 16%, rgba(255,255,255,0) 34%),
+    radial-gradient(circle at 70% 78%, rgba(40,20,80,.35), rgba(0,0,0,0) 55%),
+    conic-gradient(from 210deg at 64% 72%, #a8f0ff, #c9b8ff, #ffc6e0, #ffe6c7, #c8ffe6, #a8f0ff);filter:saturate(1.05) blur(.4px)}
+.grain{inset:0;pointer-events:none;mix-blend-mode:overlay;opacity:.35}
+</style></head><body>
+<!-- ===== E1 · OPAL NIGHT: the rising pearl ===== -->
+<div class="col"><div class="cap">E1 · Opal Night<small>Yükselen opal inci · gece sisi · holografik</small></div>
+<div class="panel" style="background:#0b0d17">
+  <div class="blob" style="left:-120px;top:120px;width:420px;height:420px;background:#3a2a7a;opacity:.55"></div>
+  <div class="blob" style="left:240px;top:40px;width:420px;height:380px;background:#14546a;opacity:.5"></div>
+  <div class="blob" style="left:120px;top:380px;width:340px;height:200px;background:#8a3d78;opacity:.35"></div>
+  <div class="blob" style="left:150px;top:90px;width:240px;height:240px;background:#c9b8ff;opacity:.35;filter:blur(50px)"></div>
+  <div class="opal" style="left:185px;top:120px;width:170px;height:170px;box-shadow:0 0 60px rgba(200,184,255,.55),0 0 140px rgba(168,240,255,.35)"></div>
+  <div class="opal" style="left:258px;top:318px;width:24px;height:24px;box-shadow:0 0 18px rgba(255,198,224,.7);opacity:.9"></div>
+  <div class="opal" style="left:263px;top:358px;width:14px;height:14px;box-shadow:0 0 12px rgba(168,240,255,.7);opacity:.7"></div>
+  <div class="opal" style="left:266px;top:386px;width:8px;height:8px;opacity:.5"></div>
+  <div class="ttl" style="top:472px;font:400 74px Italiana;color:#f4f0ff;letter-spacing:.04em">Softly Rising</div>
+  <div class="tg" style="top:560px;font:500 italic 30px Cormorant;color:#c9b8ff">the sky, gently explained</div>
+  <div class="lab" style="top:668px;color:#a8f0ff">ARIES · 01 / 12</div>
+  <div class="cp" style="top:700px;font:400 30px Marcellus;color:#efeaff">Aries never forgives being made to feel small.</div>
+  <div class="pf" style="background:#0b0d17">
+    <div class="blob" style="left:10px;top:10px;width:90px;height:90px;background:#3a2a7a;filter:blur(18px)"></div>
+    <div class="opal" style="left:32px;top:22px;width:48px;height:48px;box-shadow:0 0 20px rgba(200,184,255,.7)"></div>
+    <div class="opal" style="left:52px;top:78px;width:8px;height:8px"></div>
+    <div class="opal" style="left:54px;top:92px;width:5px;height:5px;opacity:.6"></div>
+  </div>
+</div></div>
+
+<!-- ===== E2 · PEARL MIST: iridescent crescent cradling a star (light mode) ===== -->
+<div class="col"><div class="cap">E2 · Pearl Mist<small>İnci beyazı sis · holografik hilal · açık zemin</small></div>
+<div class="panel" style="background:linear-gradient(180deg,#f3effa 0%,#ece6f6 55%,#e6e0f2 100%)">
+  <div class="blob" style="left:-80px;top:60px;width:360px;height:360px;background:#ffd3e6;opacity:.75"></div>
+  <div class="blob" style="left:260px;top:20px;width:360px;height:340px;background:#bfeefe;opacity:.8"></div>
+  <div class="blob" style="left:140px;top:300px;width:320px;height:220px;background:#d9ccff;opacity:.7"></div>
+  <div class="blob" style="left:60px;top:560px;width:420px;height:260px;background:#ffe9d1;opacity:.6"></div>
+  <div style="left:170px;top:105px;width:200px;height:200px;border-radius:50%;
+     background:conic-gradient(from 160deg,#8fe3ff,#b9a3ff,#ff9fcd,#ffd2a6,#9ff5d0,#8fe3ff);
+     -webkit-mask:radial-gradient(circle at 66% 36%, transparent 0 74px, #000 75px);
+     filter:drop-shadow(0 0 18px rgba(185,163,255,.6)) saturate(1.05)"></div>
+  <svg style="left:282px;top:126px" width="64" height="64" viewBox="-32 -32 64 64"><path d="M0,-28 C4,-4 4,-4 28,0 C4,4 4,4 0,28 C-4,4 -4,4 -28,0 C-4,-4 -4,-4 0,-28Z" fill="#fff" style="filter:drop-shadow(0 0 8px #b9a3ff)"/></svg>
+  <div class="ttl" style="top:466px;font:400 70px Bodoni;color:#3b3157;letter-spacing:-.01em">Softly Rising</div>
+  <div class="tg" style="top:552px;font:400 italic 28px Bodoni;color:#9a7fd6">the sky, gently explained</div>
+  <div class="lab" style="top:668px;color:#9a7fd6">ARIES · 01 / 12</div>
+  <div class="cp" style="top:700px;font:400 29px Bodoni;color:#3b3157">Aries never forgives being made to feel small.</div>
+  <div class="pf" style="background:#efe9f8;box-shadow:0 0 0 2px rgba(154,127,214,.35) inset">
+    <div class="blob" style="left:0;top:0;width:70px;height:70px;background:#ffd3e6;filter:blur(14px)"></div>
+    <div class="blob" style="left:50px;top:30px;width:70px;height:70px;background:#bfeefe;filter:blur(14px)"></div>
+    <div style="left:28px;top:28px;width:56px;height:56px;border-radius:50%;background:conic-gradient(from 160deg,#8fe3ff,#b9a3ff,#ff9fcd,#ffd2a6,#9ff5d0,#8fe3ff);-webkit-mask:radial-gradient(circle at 66% 36%, transparent 0 21px, #000 22px)"></div>
+  </div>
+</div></div>
+
+<!-- ===== E3 · AURORA VEIL: light veils rising from a cradle-moon ===== -->
+<div class="col"><div class="cap">E3 · Aurora Veil<small>Kutup ışığı perdeleri · yükselen ışık · derin teal-mor</small></div>
+<div class="panel" style="background:radial-gradient(120% 80% at 50% 100%,#1d1640 0%,#0c0f1f 55%,#070812 100%)">
+  <div class="blob" style="left:60px;top:-40px;width:160px;height:560px;background:#3ef0c8;opacity:.32;filter:blur(40px);transform:rotate(-12deg)"></div>
+  <div class="blob" style="left:200px;top:-60px;width:150px;height:560px;background:#9a7bff;opacity:.38;filter:blur(42px);transform:rotate(4deg)"></div>
+  <div class="blob" style="left:320px;top:-30px;width:150px;height:520px;background:#ff9fd2;opacity:.25;filter:blur(44px);transform:rotate(14deg)"></div>
+  <!-- cradle moon (bowl crescent) -->
+  <div style="left:165px;top:200px;width:210px;height:210px;border-radius:50%;
+     background:linear-gradient(90deg,#3ef0c8,#9a7bff 55%,#ff9fd2);
+     -webkit-mask:radial-gradient(circle at 50% 30%, transparent 0 92px, #000 93px);
+     clip-path:inset(50% 0 0 0);filter:drop-shadow(0 0 16px rgba(154,123,255,.8))"></div>
+  <!-- rising light veils -->
+  <div style="left:214px;top:70px;width:22px;height:250px;border-radius:11px;background:linear-gradient(0deg,rgba(62,240,200,.0),rgba(62,240,200,.75) 60%,rgba(62,240,200,0));filter:blur(5px)"></div>
+  <div style="left:259px;top:30px;width:22px;height:290px;border-radius:11px;background:linear-gradient(0deg,rgba(255,255,255,0),rgba(236,228,255,.95) 60%,rgba(255,255,255,0));filter:blur(5px)"></div>
+  <div style="left:304px;top:70px;width:22px;height:250px;border-radius:11px;background:linear-gradient(0deg,rgba(255,159,210,0),rgba(255,159,210,.75) 60%,rgba(255,159,210,0));filter:blur(5px)"></div>
+  <div class="ttl" style="top:472px;font:400 66px Marcellus;color:#effbff;letter-spacing:.06em">Softly Rising</div>
+  <div class="tg" style="top:556px;font:500 italic 30px Cormorant;color:#8ff3dc">the sky, gently explained</div>
+  <div class="lab" style="top:668px;color:#c4b3ff">ARIES · 01 / 12</div>
+  <div class="cp" style="top:700px;font:400 29px Marcellus;color:#eef4ff">Aries never forgives being made to feel small.</div>
+  <div class="pf" style="background:#0c0f1f">
+    <div class="blob" style="left:20px;top:-10px;width:30px;height:110px;background:#3ef0c8;filter:blur(12px);opacity:.5"></div>
+    <div class="blob" style="left:58px;top:-10px;width:30px;height:110px;background:#9a7bff;filter:blur(12px);opacity:.55"></div>
+    <div style="left:26px;top:36px;width:60px;height:60px;border-radius:50%;background:linear-gradient(90deg,#3ef0c8,#9a7bff 55%,#ff9fd2);-webkit-mask:radial-gradient(circle at 50% 30%, transparent 0 26px, #000 27px);clip-path:inset(50% 0 0 0)"></div>
+    <div style="left:53px;top:8px;width:6px;height:52px;border-radius:3px;background:linear-gradient(0deg,rgba(255,255,255,0),#fff 60%,rgba(255,255,255,0));filter:blur(1.5px)"></div><div style="left:41px;top:16px;width:5px;height:44px;border-radius:3px;background:linear-gradient(0deg,rgba(62,240,200,0),#3ef0c8 60%,rgba(62,240,200,0));filter:blur(1.5px)"></div><div style="left:66px;top:16px;width:5px;height:44px;border-radius:3px;background:linear-gradient(0deg,rgba(255,159,210,0),#ff9fd2 60%,rgba(255,159,210,0));filter:blur(1.5px)"></div>
+  </div>
+</div></div>
+<script>
+// film grain overlay on each panel
+document.querySelectorAll('.panel').forEach((p,i)=>{p.insertAdjacentHTML('beforeend',`<svg class="grain" width="540" height="900"><filter id="g${i}"><feTurbulence type="fractalNoise" baseFrequency=".85" numOctaves="2" seed="${i+2}"/></filter><rect width="100%" height="100%" filter="url(#g${i})" opacity=".5"/></svg>`)});
+</script>
+</body></html>

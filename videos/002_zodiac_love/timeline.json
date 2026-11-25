@@ -1,0 +1,634 @@
+{
+ "duration": 44.836,
+ "segments": [
+  {
+   "id": "hook",
+   "text": "Every zodiac sign says I love you, without ever saying it.",
+   "start": 0.12,
+   "end": 3.968,
+   "words": [
+    {
+     "w": "Every",
+     "t": 0.12
+    },
+    {
+     "w": "zodiac",
+     "t": 0.484
+    },
+    {
+     "w": "sign",
+     "t": 0.9
+    },
+    {
+     "w": "says",
+     "t": 1.212
+    },
+    {
+     "w": "I",
+     "t": 1.524
+    },
+    {
+     "w": "love",
+     "t": 1.68
+    },
+    {
+     "w": "you,",
+     "t": 1.992
+    },
+    {
+     "w": "without",
+     "t": 2.408
+    },
+    {
+     "w": "ever",
+     "t": 2.876
+    },
+    {
+     "w": "saying",
+     "t": 3.188
+    },
+    {
+     "w": "it.",
+     "t": 3.604
+    }
+   ]
+  },
+  {
+   "id": "aries",
+   "title": "ARIES",
+   "glyph": "\u2648",
+   "sub": "fire \u00b7 mars",
+   "el": "fire",
+   "text": "Aries races you there, just to hear you laugh.",
+   "start": 4.188,
+   "end": 7.103,
+   "words": [
+    {
+     "w": "Aries",
+     "t": 4.188
+    },
+    {
+     "w": "races",
+     "t": 4.528
+    },
+    {
+     "w": "you",
+     "t": 4.868
+    },
+    {
+     "w": "there,",
+     "t": 5.111
+    },
+    {
+     "w": "just",
+     "t": 5.597
+    },
+    {
+     "w": "to",
+     "t": 5.888
+    },
+    {
+     "w": "hear",
+     "t": 6.083
+    },
+    {
+     "w": "you",
+     "t": 6.374
+    },
+    {
+     "w": "laugh.",
+     "t": 6.617
+    }
+   ]
+  },
+  {
+   "id": "taurus",
+   "title": "TAURUS",
+   "glyph": "\u2649",
+   "sub": "earth \u00b7 venus",
+   "el": "earth",
+   "text": "Taurus cooks for you. Every single time.",
+   "start": 7.323,
+   "end": 10.101,
+   "words": [
+    {
+     "w": "Taurus",
+     "t": 7.323
+    },
+    {
+     "w": "cooks",
+     "t": 7.75
+    },
+    {
+     "w": "for",
+     "t": 8.124
+    },
+    {
+     "w": "you.",
+     "t": 8.391
+    },
+    {
+     "w": "Every",
+     "t": 8.819
+    },
+    {
+     "w": "single",
+     "t": 9.192
+    },
+    {
+     "w": "time.",
+     "t": 9.62
+    }
+   ]
+  },
+  {
+   "id": "gemini",
+   "title": "GEMINI",
+   "glyph": "\u264a",
+   "sub": "air \u00b7 mercury",
+   "el": "air",
+   "text": "Gemini talks with you until sunrise.",
+   "start": 10.321,
+   "end": 13.065,
+   "words": [
+    {
+     "w": "Gemini",
+     "t": 10.321
+    },
+    {
+     "w": "talks",
+     "t": 10.808
+    },
+    {
+     "w": "with",
+     "t": 11.235
+    },
+    {
+     "w": "you",
+     "t": 11.601
+    },
+    {
+     "w": "until",
+     "t": 11.906
+    },
+    {
+     "w": "sunrise.",
+     "t": 12.333
+    }
+   ]
+  },
+  {
+   "id": "cancer",
+   "title": "CANCER",
+   "glyph": "\u264b",
+   "sub": "water \u00b7 moon",
+   "el": "water",
+   "text": "Cancer remembers the smallest thing you said.",
+   "start": 13.285,
+   "end": 15.66,
+   "words": [
+    {
+     "w": "Cancer",
+     "t": 13.285
+    },
+    {
+     "w": "remembers",
+     "t": 13.631
+    },
+    {
+     "w": "the",
+     "t": 14.106
+    },
+    {
+     "w": "smallest",
+     "t": 14.321
+    },
+    {
+     "w": "thing",
+     "t": 14.753
+    },
+    {
+     "w": "you",
+     "t": 15.055
+    },
+    {
+     "w": "said.",
+     "t": 15.271
+    }
+   ]
+  },
+  {
+   "id": "leo",
+   "title": "LEO",
+   "glyph": "\u264c",
+   "sub": "fire \u00b7 sun",
+   "el": "fire",
+   "text": "Leo shows you off to the whole world.",
+   "start": 15.88,
+   "end": 17.77,
+   "words": [
+    {
+     "w": "Leo",
+     "t": 15.88
+    },
+    {
+     "w": "shows",
+     "t": 16.077
+    },
+    {
+     "w": "you",
+     "t": 16.352
+    },
+    {
+     "w": "off",
+     "t": 16.549
+    },
+    {
+     "w": "to",
+     "t": 16.746
+    },
+    {
+     "w": "the",
+     "t": 16.904
+    },
+    {
+     "w": "whole",
+     "t": 17.1
+    },
+    {
+     "w": "world.",
+     "t": 17.376
+    }
+   ]
+  },
+  {
+   "id": "virgo",
+   "title": "VIRGO",
+   "glyph": "\u264d",
+   "sub": "earth \u00b7 mercury",
+   "el": "earth",
+   "text": "Virgo quietly fixes what's broken.",
+   "start": 17.99,
+   "end": 20.241,
+   "words": [
+    {
+     "w": "Virgo",
+     "t": 17.99
+    },
+    {
+     "w": "quietly",
+     "t": 18.365
+    },
+    {
+     "w": "fixes",
+     "t": 18.847
+    },
+    {
+     "w": "what's",
+     "t": 19.222
+    },
+    {
+     "w": "broken.",
+     "t": 19.651
+    }
+   ]
+  },
+  {
+   "id": "libra",
+   "title": "LIBRA",
+   "glyph": "\u264e",
+   "sub": "air \u00b7 venus",
+   "el": "air",
+   "text": "Libra makes your whole world softer.",
+   "start": 20.461,
+   "end": 22.617,
+   "words": [
+    {
+     "w": "Libra",
+     "t": 20.461
+    },
+    {
+     "w": "makes",
+     "t": 20.796
+    },
+    {
+     "w": "your",
+     "t": 21.132
+    },
+    {
+     "w": "whole",
+     "t": 21.419
+    },
+    {
+     "w": "world",
+     "t": 21.755
+    },
+    {
+     "w": "softer.",
+     "t": 22.09
+    }
+   ]
+  },
+  {
+   "id": "scorpio",
+   "title": "SCORPIO",
+   "glyph": "\u264f",
+   "sub": "water \u00b7 pluto",
+   "el": "water",
+   "text": "Scorpio tells you the secret they never tell.",
+   "start": 22.837,
+   "end": 25.408,
+   "words": [
+    {
+     "w": "Scorpio",
+     "t": 22.837
+    },
+    {
+     "w": "tells",
+     "t": 23.251
+    },
+    {
+     "w": "you",
+     "t": 23.572
+    },
+    {
+     "w": "the",
+     "t": 23.802
+    },
+    {
+     "w": "secret",
+     "t": 24.031
+    },
+    {
+     "w": "they",
+     "t": 24.398
+    },
+    {
+     "w": "never",
+     "t": 24.674
+    },
+    {
+     "w": "tell.",
+     "t": 24.995
+    }
+   ]
+  },
+  {
+   "id": "sagittarius",
+   "title": "SAGITTARIUS",
+   "glyph": "\u2650",
+   "sub": "fire \u00b7 jupiter",
+   "el": "fire",
+   "text": "Sagittarius takes you somewhere new.",
+   "start": 25.628,
+   "end": 27.671,
+   "words": [
+    {
+     "w": "Sagittarius",
+     "t": 25.628
+    },
+    {
+     "w": "takes",
+     "t": 26.232
+    },
+    {
+     "w": "you",
+     "t": 26.557
+    },
+    {
+     "w": "somewhere",
+     "t": 26.789
+    },
+    {
+     "w": "new.",
+     "t": 27.3
+    }
+   ]
+  },
+  {
+   "id": "capricorn",
+   "title": "CAPRICORN",
+   "glyph": "\u2651",
+   "sub": "earth \u00b7 saturn",
+   "el": "earth",
+   "text": "Capricorn builds a future with your name in it.",
+   "start": 27.891,
+   "end": 30.934,
+   "words": [
+    {
+     "w": "Capricorn",
+     "t": 27.891
+    },
+    {
+     "w": "builds",
+     "t": 28.459
+    },
+    {
+     "w": "a",
+     "t": 28.871
+    },
+    {
+     "w": "future",
+     "t": 29.026
+    },
+    {
+     "w": "with",
+     "t": 29.438
+    },
+    {
+     "w": "your",
+     "t": 29.748
+    },
+    {
+     "w": "name",
+     "t": 30.057
+    },
+    {
+     "w": "in",
+     "t": 30.367
+    },
+    {
+     "w": "it.",
+     "t": 30.573
+    }
+   ]
+  },
+  {
+   "id": "aquarius",
+   "title": "AQUARIUS",
+   "glyph": "\u2652",
+   "sub": "air \u00b7 uranus",
+   "el": "air",
+   "text": "Aquarius lets you be your strangest self.",
+   "start": 31.154,
+   "end": 33.863,
+   "words": [
+    {
+     "w": "Aquarius",
+     "t": 31.154
+    },
+    {
+     "w": "lets",
+     "t": 31.685
+    },
+    {
+     "w": "you",
+     "t": 32.004
+    },
+    {
+     "w": "be",
+     "t": 32.269
+    },
+    {
+     "w": "your",
+     "t": 32.482
+    },
+    {
+     "w": "strangest",
+     "t": 32.801
+    },
+    {
+     "w": "self.",
+     "t": 33.385
+    }
+   ]
+  },
+  {
+   "id": "pisces",
+   "title": "PISCES",
+   "glyph": "\u2653",
+   "sub": "water \u00b7 neptune",
+   "el": "water",
+   "text": "Pisces feels your pain before you say it.",
+   "start": 34.083,
+   "end": 36.745,
+   "words": [
+    {
+     "w": "Pisces",
+     "t": 34.083
+    },
+    {
+     "w": "feels",
+     "t": 34.493
+    },
+    {
+     "w": "your",
+     "t": 34.851
+    },
+    {
+     "w": "pain",
+     "t": 35.158
+    },
+    {
+     "w": "before",
+     "t": 35.465
+    },
+    {
+     "w": "you",
+     "t": 35.875
+    },
+    {
+     "w": "say",
+     "t": 36.131
+    },
+    {
+     "w": "it.",
+     "t": 36.387
+    }
+   ]
+  },
+  {
+   "id": "cta",
+   "text": "Which one loves like you? Comment your sign, and send this to them.",
+   "start": 36.965,
+   "end": 41.216,
+   "words": [
+    {
+     "w": "Which",
+     "t": 36.965
+    },
+    {
+     "w": "one",
+     "t": 37.307
+    },
+    {
+     "w": "loves",
+     "t": 37.551
+    },
+    {
+     "w": "like",
+     "t": 37.893
+    },
+    {
+     "w": "you?",
+     "t": 38.187
+    },
+    {
+     "w": "Comment",
+     "t": 38.577
+    },
+    {
+     "w": "your",
+     "t": 39.017
+    },
+    {
+     "w": "sign,",
+     "t": 39.31
+    },
+    {
+     "w": "and",
+     "t": 39.75
+    },
+    {
+     "w": "send",
+     "t": 39.994
+    },
+    {
+     "w": "this",
+     "t": 40.287
+    },
+    {
+     "w": "to",
+     "t": 40.581
+    },
+    {
+     "w": "them.",
+     "t": 40.776
+    }
+   ]
+  }
+ ],
+ "hook": [
+  "EVERY SIGN",
+  "says I love you",
+  "WITHOUT WORDS"
+ ],
+ "keys": [
+  "laugh",
+  "cooks",
+  "sunrise",
+  "remembers",
+  "world",
+  "fixes",
+  "softer",
+  "secret",
+  "new",
+  "future",
+  "strangest",
+  "feels",
+  "love",
+  "sign",
+  "aries",
+  "taurus",
+  "gemini",
+  "cancer",
+  "leo",
+  "virgo",
+  "libra",
+  "scorpio",
+  "sagittarius",
+  "capricorn",
+  "aquarius",
+  "pisces"
+ ]
+}

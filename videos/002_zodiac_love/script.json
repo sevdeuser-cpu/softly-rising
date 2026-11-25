@@ -1,0 +1,22 @@
+{
+ "title": "How Each Zodiac Sign Says I Love You (Without Saying It)",
+ "voice": "af_nicole:0.7,af_heart:0.3", "speed": 1.12,
+ "hook": ["EVERY SIGN", "says I love you", "WITHOUT WORDS"],
+ "keys": ["laugh","cooks","sunrise","remembers","world","fixes","softer","secret","new","future","strangest","feels","love","sign","aries","taurus","gemini","cancer","leo","virgo","libra","scorpio","sagittarius","capricorn","aquarius","pisces"],
+ "segments": [
+  {"id":"hook","text":"Every zodiac sign says I love you, without ever saying it."},
+  {"id":"aries","title":"ARIES","glyph":"♈","sub":"fire · mars","el":"fire","text":"Aries races you there, just to hear you laugh."},
+  {"id":"taurus","title":"TAURUS","glyph":"♉","sub":"earth · venus","el":"earth","text":"Taurus cooks for you. Every single time."},
+  {"id":"gemini","title":"GEMINI","glyph":"♊","sub":"air · mercury","el":"air","text":"Gemini talks with you until sunrise."},
+  {"id":"cancer","title":"CANCER","glyph":"♋","sub":"water · moon","el":"water","text":"Cancer remembers the smallest thing you said."},
+  {"id":"leo","title":"LEO","glyph":"♌","sub":"fire · sun","el":"fire","text":"Leo shows you off to the whole world."},
+  {"id":"virgo","title":"VIRGO","glyph":"♍","sub":"earth · mercury","el":"earth","text":"Virgo quietly fixes what's broken."},
+  {"id":"libra","title":"LIBRA","glyph":"♎","sub":"air · venus","el":"air","text":"Libra makes your whole world softer."},
+  {"id":"scorpio","title":"SCORPIO","glyph":"♏","sub":"water · pluto","el":"water","text":"Scorpio tells you the secret they never tell."},
+  {"id":"sagittarius","title":"SAGITTARIUS","glyph":"♐","sub":"fire · jupiter","el":"fire","text":"Sagittarius takes you somewhere new."},
+  {"id":"capricorn","title":"CAPRICORN","glyph":"♑","sub":"earth · saturn","el":"earth","text":"Capricorn builds a future with your name in it."},
+  {"id":"aquarius","title":"AQUARIUS","glyph":"♒","sub":"air · uranus","el":"air","text":"Aquarius lets you be your strangest self."},
+  {"id":"pisces","title":"PISCES","glyph":"♓","sub":"water · neptune","el":"water","text":"Pisces feels your pain before you say it."},
+  {"id":"cta","text":"Which one loves like you? Comment your sign, and send this to them."}
+ ]
+}

@@ -1,0 +1,10 @@
+<!doctype html><html><head><meta charset="utf-8"><link rel="stylesheet" href="brand.css">
+<style>body{width:800px;height:800px;overflow:hidden}
+#bg{position:absolute;inset:0;background:radial-gradient(120% 80% at 50% 78%, #3a2a62 0%, #1b1c4a 38%, #0d1030 70%, #070917 100%)}
+svg{position:absolute;inset:0}</style></head><body><div id="bg"></div>
+<svg id="stars" width="800" height="800"></svg>
+<svg id="mark" width="800" height="800" viewBox="-10 -6 220 220"></svg>
+<script src="brand.js"></script><script>
+document.getElementById('stars').innerHTML = starfield({w:800,h:800,count:140,seed:11,maxY:520,sizeScale:1.6});
+document.getElementById('mark').innerHTML = moonMark({id:'p'});
+</script></body></html>
