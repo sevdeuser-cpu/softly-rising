@@ -7,4 +7,5 @@ videos/*/*.mp4
 videos/*/*.wav
 videos/*/render*.log
 out/*.mp4
+out/*.zip
 out/voice_tests/
