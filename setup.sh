@@ -3,7 +3,7 @@
 set -e
 cd "$(dirname "$0")"
 npm install --no-audit --no-fund
-pip install -q scipy soundfile kokoro-onnx numpy
+pip install -q scipy soundfile kokoro-onnx numpy ephem
 mkdir -p models
 for f in kokoro-v1.0.onnx voices-v1.0.bin; do
   [ -s "models/$f" ] || curl -sSL -o "models/$f" "https://github.com/thewh1teagle/kokoro-onnx/releases/download/model-files-v1.0/$f"
