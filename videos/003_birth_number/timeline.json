@@ -1,0 +1,563 @@
+{
+ "duration": 40.513,
+ "segments": [
+  {
+   "id": "hook",
+   "text": "Add the digits of the day you were born. That one number carries a gift.",
+   "start": 0.12,
+   "end": 5.006,
+   "words": [
+    {
+     "w": "Add",
+     "t": 0.12
+    },
+    {
+     "w": "the",
+     "t": 0.386
+    },
+    {
+     "w": "digits",
+     "t": 0.651
+    },
+    {
+     "w": "of",
+     "t": 1.076
+    },
+    {
+     "w": "the",
+     "t": 1.288
+    },
+    {
+     "w": "day",
+     "t": 1.554
+    },
+    {
+     "w": "you",
+     "t": 1.82
+    },
+    {
+     "w": "were",
+     "t": 2.085
+    },
+    {
+     "w": "born.",
+     "t": 2.404
+    },
+    {
+     "w": "That",
+     "t": 2.882
+    },
+    {
+     "w": "one",
+     "t": 3.2
+    },
+    {
+     "w": "number",
+     "t": 3.466
+    },
+    {
+     "w": "carries",
+     "t": 3.891
+    },
+    {
+     "w": "a",
+     "t": 4.369
+    },
+    {
+     "w": "gift.",
+     "t": 4.528
+    }
+   ]
+  },
+  {
+   "id": "how",
+   "text": "Born on the twenty-eighth? Two plus eight is ten. One plus zero is one.",
+   "start": 5.226,
+   "end": 10.829,
+   "words": [
+    {
+     "w": "Born",
+     "t": 5.226
+    },
+    {
+     "w": "on",
+     "t": 5.595
+    },
+    {
+     "w": "the",
+     "t": 5.842
+    },
+    {
+     "w": "twenty-eighth?",
+     "t": 6.15
+    },
+    {
+     "w": "Two",
+     "t": 7.196
+    },
+    {
+     "w": "plus",
+     "t": 7.504
+    },
+    {
+     "w": "eight",
+     "t": 7.874
+    },
+    {
+     "w": "is",
+     "t": 8.305
+    },
+    {
+     "w": "ten.",
+     "t": 8.551
+    },
+    {
+     "w": "One",
+     "t": 9.044
+    },
+    {
+     "w": "plus",
+     "t": 9.351
+    },
+    {
+     "w": "zero",
+     "t": 9.721
+    },
+    {
+     "w": "is",
+     "t": 10.09
+    },
+    {
+     "w": "one.",
+     "t": 10.337
+    }
+   ]
+  },
+  {
+   "id": "n1",
+   "title": "ONE",
+   "glyph": "\u2726",
+   "sub": "the beginner",
+   "text": "One. You begin what others only dream about.",
+   "start": 11.049,
+   "end": 14.159,
+   "words": [
+    {
+     "w": "One.",
+     "t": 11.049
+    },
+    {
+     "w": "You",
+     "t": 11.486
+    },
+    {
+     "w": "begin",
+     "t": 11.759
+    },
+    {
+     "w": "what",
+     "t": 12.141
+    },
+    {
+     "w": "others",
+     "t": 12.468
+    },
+    {
+     "w": "only",
+     "t": 12.904
+    },
+    {
+     "w": "dream",
+     "t": 13.232
+    },
+    {
+     "w": "about.",
+     "t": 13.614
+    }
+   ]
+  },
+  {
+   "id": "n2",
+   "title": "TWO",
+   "glyph": "\u2726",
+   "sub": "the peacemaker",
+   "text": "Two. You bring peace into every room.",
+   "start": 14.379,
+   "end": 16.513,
+   "words": [
+    {
+     "w": "Two.",
+     "t": 14.379
+    },
+    {
+     "w": "You",
+     "t": 14.728
+    },
+    {
+     "w": "bring",
+     "t": 14.946
+    },
+    {
+     "w": "peace",
+     "t": 15.25
+    },
+    {
+     "w": "into",
+     "t": 15.555
+    },
+    {
+     "w": "every",
+     "t": 15.817
+    },
+    {
+     "w": "room.",
+     "t": 16.122
+    }
+   ]
+  },
+  {
+   "id": "n3",
+   "title": "THREE",
+   "glyph": "\u2726",
+   "sub": "the light",
+   "text": "Three. Your joy is contagious.",
+   "start": 16.733,
+   "end": 18.709,
+   "words": [
+    {
+     "w": "Three.",
+     "t": 16.733
+    },
+    {
+     "w": "Your",
+     "t": 17.227
+    },
+    {
+     "w": "joy",
+     "t": 17.524
+    },
+    {
+     "w": "is",
+     "t": 17.771
+    },
+    {
+     "w": "contagious.",
+     "t": 17.968
+    }
+   ]
+  },
+  {
+   "id": "n4",
+   "title": "FOUR",
+   "glyph": "\u2726",
+   "sub": "the builder",
+   "text": "Four. People build their lives on your loyalty.",
+   "start": 18.929,
+   "end": 21.859,
+   "words": [
+    {
+     "w": "Four.",
+     "t": 18.929
+    },
+    {
+     "w": "People",
+     "t": 19.369
+    },
+    {
+     "w": "build",
+     "t": 19.759
+    },
+    {
+     "w": "their",
+     "t": 20.101
+    },
+    {
+     "w": "lives",
+     "t": 20.443
+    },
+    {
+     "w": "on",
+     "t": 20.785
+    },
+    {
+     "w": "your",
+     "t": 20.98
+    },
+    {
+     "w": "loyalty.",
+     "t": 21.273
+    }
+   ]
+  },
+  {
+   "id": "n5",
+   "title": "FIVE",
+   "glyph": "\u2726",
+   "sub": "the free spirit",
+   "text": "Five. You were born to be free.",
+   "start": 22.079,
+   "end": 23.829,
+   "words": [
+    {
+     "w": "Five.",
+     "t": 22.079
+    },
+    {
+     "w": "You",
+     "t": 22.445
+    },
+    {
+     "w": "were",
+     "t": 22.649
+    },
+    {
+     "w": "born",
+     "t": 22.893
+    },
+    {
+     "w": "to",
+     "t": 23.137
+    },
+    {
+     "w": "be",
+     "t": 23.3
+    },
+    {
+     "w": "free.",
+     "t": 23.463
+    }
+   ]
+  },
+  {
+   "id": "n6",
+   "title": "SIX",
+   "glyph": "\u2726",
+   "sub": "the heart",
+   "text": "Six. You love like a home.",
+   "start": 24.049,
+   "end": 25.672,
+   "words": [
+    {
+     "w": "Six.",
+     "t": 24.049
+    },
+    {
+     "w": "You",
+     "t": 24.4
+    },
+    {
+     "w": "love",
+     "t": 24.619
+    },
+    {
+     "w": "like",
+     "t": 24.882
+    },
+    {
+     "w": "a",
+     "t": 25.146
+    },
+    {
+     "w": "home.",
+     "t": 25.277
+    }
+   ]
+  },
+  {
+   "id": "n7",
+   "title": "SEVEN",
+   "glyph": "\u2726",
+   "sub": "the seer",
+   "text": "Seven. You see what others miss.",
+   "start": 25.892,
+   "end": 27.687,
+   "words": [
+    {
+     "w": "Seven.",
+     "t": 25.892
+    },
+    {
+     "w": "You",
+     "t": 26.309
+    },
+    {
+     "w": "see",
+     "t": 26.518
+    },
+    {
+     "w": "what",
+     "t": 26.727
+    },
+    {
+     "w": "others",
+     "t": 26.977
+    },
+    {
+     "w": "miss.",
+     "t": 27.311
+    }
+   ]
+  },
+  {
+   "id": "n8",
+   "title": "EIGHT",
+   "glyph": "\u2726",
+   "sub": "the maker",
+   "text": "Eight. You turn effort into abundance.",
+   "start": 27.907,
+   "end": 30.113,
+   "words": [
+    {
+     "w": "Eight.",
+     "t": 27.907
+    },
+    {
+     "w": "You",
+     "t": 28.357
+    },
+    {
+     "w": "turn",
+     "t": 28.582
+    },
+    {
+     "w": "effort",
+     "t": 28.852
+    },
+    {
+     "w": "into",
+     "t": 29.213
+    },
+    {
+     "w": "abundance.",
+     "t": 29.483
+    }
+   ]
+  },
+  {
+   "id": "n9",
+   "title": "NINE",
+   "glyph": "\u2726",
+   "sub": "the old soul",
+   "text": "Nine. An old soul, here to heal.",
+   "start": 30.333,
+   "end": 32.394,
+   "words": [
+    {
+     "w": "Nine.",
+     "t": 30.333
+    },
+    {
+     "w": "An",
+     "t": 30.737
+    },
+    {
+     "w": "old",
+     "t": 30.916
+    },
+    {
+     "w": "soul,",
+     "t": 31.14
+    },
+    {
+     "w": "here",
+     "t": 31.543
+    },
+    {
+     "w": "to",
+     "t": 31.812
+    },
+    {
+     "w": "heal.",
+     "t": 31.991
+    }
+   ]
+  },
+  {
+   "id": "cta",
+   "text": "What's your number? Comment it, and send this to someone who shares it.",
+   "start": 32.614,
+   "end": 36.893,
+   "words": [
+    {
+     "w": "What's",
+     "t": 32.614
+    },
+    {
+     "w": "your",
+     "t": 32.99
+    },
+    {
+     "w": "number?",
+     "t": 33.272
+    },
+    {
+     "w": "Comment",
+     "t": 33.789
+    },
+    {
+     "w": "it,",
+     "t": 34.213
+    },
+    {
+     "w": "and",
+     "t": 34.542
+    },
+    {
+     "w": "send",
+     "t": 34.777
+    },
+    {
+     "w": "this",
+     "t": 35.059
+    },
+    {
+     "w": "to",
+     "t": 35.341
+    },
+    {
+     "w": "someone",
+     "t": 35.529
+    },
+    {
+     "w": "who",
+     "t": 35.952
+    },
+    {
+     "w": "shares",
+     "t": 36.187
+    },
+    {
+     "w": "it.",
+     "t": 36.564
+    }
+   ]
+  }
+ ],
+ "hook": [
+  "YOUR BIRTH DAY",
+  "hides a",
+  "NUMBER"
+ ],
+ "keys": [
+  "one",
+  "two",
+  "three",
+  "four",
+  "five",
+  "six",
+  "seven",
+  "eight",
+  "nine",
+  "begin",
+  "peace",
+  "joy",
+  "loyalty",
+  "free",
+  "home",
+  "see",
+  "abundance",
+  "heal",
+  "number",
+  "gift"
+ ]
+}

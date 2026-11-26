@@ -1,0 +1,508 @@
+{
+ "duration": 42.548,
+ "segments": [
+  {
+   "id": "hook",
+   "text": "This Christmas week, the Cold Moon rises in Cancer, the Moon's own home.",
+   "start": 0.12,
+   "end": 5.659,
+   "words": [
+    {
+     "w": "This",
+     "t": 0.12
+    },
+    {
+     "w": "Christmas",
+     "t": 0.481
+    },
+    {
+     "w": "week,",
+     "t": 1.144
+    },
+    {
+     "w": "the",
+     "t": 1.685
+    },
+    {
+     "w": "Cold",
+     "t": 1.986
+    },
+    {
+     "w": "Moon",
+     "t": 2.348
+    },
+    {
+     "w": "rises",
+     "t": 2.709
+    },
+    {
+     "w": "in",
+     "t": 3.13
+    },
+    {
+     "w": "Cancer,",
+     "t": 3.371
+    },
+    {
+     "w": "the",
+     "t": 4.033
+    },
+    {
+     "w": "Moon's",
+     "t": 4.334
+    },
+    {
+     "w": "own",
+     "t": 4.816
+    },
+    {
+     "w": "home.",
+     "t": 5.117
+    }
+   ]
+  },
+  {
+   "id": "why",
+   "text": "It's called the Cold Moon, because it shines on the longest nights of the year.",
+   "start": 5.879,
+   "end": 10.961,
+   "words": [
+    {
+     "w": "It's",
+     "t": 5.879
+    },
+    {
+     "w": "called",
+     "t": 6.187
+    },
+    {
+     "w": "the",
+     "t": 6.598
+    },
+    {
+     "w": "Cold",
+     "t": 6.854
+    },
+    {
+     "w": "Moon,",
+     "t": 7.162
+    },
+    {
+     "w": "because",
+     "t": 7.624
+    },
+    {
+     "w": "it",
+     "t": 8.086
+    },
+    {
+     "w": "shines",
+     "t": 8.292
+    },
+    {
+     "w": "on",
+     "t": 8.702
+    },
+    {
+     "w": "the",
+     "t": 8.908
+    },
+    {
+     "w": "longest",
+     "t": 9.164
+    },
+    {
+     "w": "nights",
+     "t": 9.626
+    },
+    {
+     "w": "of",
+     "t": 10.037
+    },
+    {
+     "w": "the",
+     "t": 10.242
+    },
+    {
+     "w": "year.",
+     "t": 10.499
+    }
+   ]
+  },
+  {
+   "id": "high",
+   "text": "In winter, the full moon rides so high, it stays with you almost all night.",
+   "start": 11.181,
+   "end": 16.565,
+   "words": [
+    {
+     "w": "In",
+     "t": 11.181
+    },
+    {
+     "w": "winter,",
+     "t": 11.403
+    },
+    {
+     "w": "the",
+     "t": 12.014
+    },
+    {
+     "w": "full",
+     "t": 12.291
+    },
+    {
+     "w": "moon",
+     "t": 12.624
+    },
+    {
+     "w": "rides",
+     "t": 12.957
+    },
+    {
+     "w": "so",
+     "t": 13.346
+    },
+    {
+     "w": "high,",
+     "t": 13.568
+    },
+    {
+     "w": "it",
+     "t": 14.067
+    },
+    {
+     "w": "stays",
+     "t": 14.289
+    },
+    {
+     "w": "with",
+     "t": 14.678
+    },
+    {
+     "w": "you",
+     "t": 15.011
+    },
+    {
+     "w": "almost",
+     "t": 15.288
+    },
+    {
+     "w": "all",
+     "t": 15.732
+    },
+    {
+     "w": "night.",
+     "t": 16.01
+    }
+   ]
+  },
+  {
+   "id": "fire",
+   "title": "FIRE SIGNS",
+   "glyph": "\u2726",
+   "sub": "aries \u00b7 leo \u00b7 sagittarius",
+   "text": "Fire signs, let your heart rest. You don't have to prove anything.",
+   "start": 16.785,
+   "end": 21.038,
+   "words": [
+    {
+     "w": "Fire",
+     "t": 16.785
+    },
+    {
+     "w": "signs,",
+     "t": 17.085
+    },
+    {
+     "w": "let",
+     "t": 17.586
+    },
+    {
+     "w": "your",
+     "t": 17.836
+    },
+    {
+     "w": "heart",
+     "t": 18.136
+    },
+    {
+     "w": "rest.",
+     "t": 18.486
+    },
+    {
+     "w": "You",
+     "t": 18.936
+    },
+    {
+     "w": "don't",
+     "t": 19.187
+    },
+    {
+     "w": "have",
+     "t": 19.537
+    },
+    {
+     "w": "to",
+     "t": 19.837
+    },
+    {
+     "w": "prove",
+     "t": 20.037
+    },
+    {
+     "w": "anything.",
+     "t": 20.388
+    }
+   ]
+  },
+  {
+   "id": "earth",
+   "title": "EARTH SIGNS",
+   "glyph": "\u2726",
+   "sub": "taurus \u00b7 virgo \u00b7 capricorn",
+   "text": "Earth signs, home is calling. Go back to the people who feel safe.",
+   "start": 21.258,
+   "end": 25.864,
+   "words": [
+    {
+     "w": "Earth",
+     "t": 21.258
+    },
+    {
+     "w": "signs,",
+     "t": 21.633
+    },
+    {
+     "w": "home",
+     "t": 22.168
+    },
+    {
+     "w": "is",
+     "t": 22.49
+    },
+    {
+     "w": "calling.",
+     "t": 22.704
+    },
+    {
+     "w": "Go",
+     "t": 23.347
+    },
+    {
+     "w": "back",
+     "t": 23.561
+    },
+    {
+     "w": "to",
+     "t": 23.882
+    },
+    {
+     "w": "the",
+     "t": 24.097
+    },
+    {
+     "w": "people",
+     "t": 24.364
+    },
+    {
+     "w": "who",
+     "t": 24.793
+    },
+    {
+     "w": "feel",
+     "t": 25.061
+    },
+    {
+     "w": "safe.",
+     "t": 25.382
+    }
+   ]
+  },
+  {
+   "id": "air",
+   "title": "AIR SIGNS",
+   "glyph": "\u2726",
+   "sub": "gemini \u00b7 libra \u00b7 aquarius",
+   "text": "Air signs, say the soft thing you've been holding back.",
+   "start": 26.084,
+   "end": 29.372,
+   "words": [
+    {
+     "w": "Air",
+     "t": 26.084
+    },
+    {
+     "w": "signs,",
+     "t": 26.319
+    },
+    {
+     "w": "say",
+     "t": 26.789
+    },
+    {
+     "w": "the",
+     "t": 27.023
+    },
+    {
+     "w": "soft",
+     "t": 27.258
+    },
+    {
+     "w": "thing",
+     "t": 27.54
+    },
+    {
+     "w": "you've",
+     "t": 27.869
+    },
+    {
+     "w": "been",
+     "t": 28.244
+    },
+    {
+     "w": "holding",
+     "t": 28.526
+    },
+    {
+     "w": "back.",
+     "t": 28.949
+    }
+   ]
+  },
+  {
+   "id": "water",
+   "title": "WATER SIGNS",
+   "glyph": "\u2726",
+   "sub": "cancer \u00b7 scorpio \u00b7 pisces",
+   "text": "Water signs, this is your moon. Cry, release, begin again.",
+   "start": 29.592,
+   "end": 33.922,
+   "words": [
+    {
+     "w": "Water",
+     "t": 29.592
+    },
+    {
+     "w": "signs,",
+     "t": 29.975
+    },
+    {
+     "w": "this",
+     "t": 30.523
+    },
+    {
+     "w": "is",
+     "t": 30.852
+    },
+    {
+     "w": "your",
+     "t": 31.071
+    },
+    {
+     "w": "moon.",
+     "t": 31.4
+    },
+    {
+     "w": "Cry,",
+     "t": 31.894
+    },
+    {
+     "w": "release,",
+     "t": 32.332
+    },
+    {
+     "w": "begin",
+     "t": 32.99
+    },
+    {
+     "w": "again.",
+     "t": 33.374
+    }
+   ]
+  },
+  {
+   "id": "cta",
+   "text": "Which element are you? Comment below, and save this for the full moon.",
+   "start": 34.142,
+   "end": 38.928,
+   "words": [
+    {
+     "w": "Which",
+     "t": 34.142
+    },
+    {
+     "w": "element",
+     "t": 34.514
+    },
+    {
+     "w": "are",
+     "t": 34.993
+    },
+    {
+     "w": "you?",
+     "t": 35.258
+    },
+    {
+     "w": "Comment",
+     "t": 35.684
+    },
+    {
+     "w": "below,",
+     "t": 36.162
+    },
+    {
+     "w": "and",
+     "t": 36.694
+    },
+    {
+     "w": "save",
+     "t": 36.96
+    },
+    {
+     "w": "this",
+     "t": 37.279
+    },
+    {
+     "w": "for",
+     "t": 37.598
+    },
+    {
+     "w": "the",
+     "t": 37.864
+    },
+    {
+     "w": "full",
+     "t": 38.13
+    },
+    {
+     "w": "moon.",
+     "t": 38.449
+    }
+   ]
+  }
+ ],
+ "hook": [
+  "THE COLD MOON",
+  "rises in",
+  "CANCER"
+ ],
+ "keys": [
+  "cold",
+  "moon",
+  "cancer",
+  "home",
+  "longest",
+  "high",
+  "fire",
+  "earth",
+  "air",
+  "water",
+  "rest",
+  "safe",
+  "soft",
+  "release",
+  "element",
+  "night"
+ ]
+}

@@ -1,4 +1,27 @@
 [
- {"id":"001_weekday_planets","pillar":4,"title":"Your Birth Day Is Secretly Named After a Planet","date":"2026-11-25"},
- {"id":"002_zodiac_love","pillar":1,"title":"How Each Zodiac Sign Says I Love You (Without Saying It)","date":"2026-11-25"}
+ {
+  "id": "001_weekday_planets",
+  "pillar": 4,
+  "title": "Your Birth Day Is Secretly Named After a Planet",
+  "date": "2026-11-25"
+ },
+ {
+  "id": "002_zodiac_love",
+  "pillar": 1,
+  "title": "How Each Zodiac Sign Says I Love You (Without Saying It)",
+  "date": "2026-11-25"
+ },
+ {
+  "id": "003_birth_number",
+  "pillar": 2,
+  "title": "Your Birth Number Reveals Your Hidden Gift",
+  "date": "2026-11-26"
+ },
+ {
+  "id": "004_cold_moon_cancer",
+  "pillar": 3,
+  "title": "The Cold Moon in Cancer: What It Asks of Your Element",
+  "date": "2026-11-26",
+  "event": "2026-12-24T01:28Z full moon Cancer 2\u00b0"
+ }
 ]

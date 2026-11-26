@@ -1,0 +1,16 @@
+{
+ "title": "The Cold Moon in Cancer: What It Asks of Your Element",
+ "voice": "af_nicole:0.7,af_heart:0.3", "speed": 1.1,
+ "hook": ["THE COLD MOON", "rises in", "CANCER"],
+ "keys": ["cold","moon","cancer","home","longest","high","fire","earth","air","water","rest","safe","soft","release","element","night"],
+ "segments": [
+  {"id":"hook","text":"This Christmas week, the Cold Moon rises in Cancer, the Moon's own home."},
+  {"id":"why","text":"It's called the Cold Moon, because it shines on the longest nights of the year."},
+  {"id":"high","text":"In winter, the full moon rides so high, it stays with you almost all night."},
+  {"id":"fire","title":"FIRE SIGNS","glyph":"✦","sub":"aries · leo · sagittarius","text":"Fire signs, let your heart rest. You don't have to prove anything."},
+  {"id":"earth","title":"EARTH SIGNS","glyph":"✦","sub":"taurus · virgo · capricorn","text":"Earth signs, home is calling. Go back to the people who feel safe."},
+  {"id":"air","title":"AIR SIGNS","glyph":"✦","sub":"gemini · libra · aquarius","text":"Air signs, say the soft thing you've been holding back."},
+  {"id":"water","title":"WATER SIGNS","glyph":"✦","sub":"cancer · scorpio · pisces","text":"Water signs, this is your moon. Cry, release, begin again."},
+  {"id":"cta","text":"Which element are you? Comment below, and save this for the full moon."}
+ ]
+}

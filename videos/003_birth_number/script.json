@@ -1,0 +1,109 @@
+{
+ "title": "Your Birth Number Reveals Your Hidden Gift",
+ "voice": "af_nicole:0.7,af_heart:0.3",
+ "speed": 1.1,
+ "hook": [
+  "YOUR BIRTH DAY",
+  "hides a",
+  "NUMBER"
+ ],
+ "keys": [
+  "one",
+  "two",
+  "three",
+  "four",
+  "five",
+  "six",
+  "seven",
+  "eight",
+  "nine",
+  "begin",
+  "peace",
+  "joy",
+  "loyalty",
+  "free",
+  "home",
+  "see",
+  "abundance",
+  "heal",
+  "number",
+  "gift"
+ ],
+ "segments": [
+  {
+   "id": "hook",
+   "text": "Add the digits of the day you were born. That one number carries a gift."
+  },
+  {
+   "id": "how",
+   "text": "Born on the twenty-eighth? Two plus eight is ten. One plus zero is one."
+  },
+  {
+   "id": "n1",
+   "title": "ONE",
+   "glyph": "\u2726",
+   "sub": "the beginner",
+   "text": "One. You begin what others only dream about."
+  },
+  {
+   "id": "n2",
+   "title": "TWO",
+   "glyph": "\u2726",
+   "sub": "the peacemaker",
+   "text": "Two. You bring peace into every room."
+  },
+  {
+   "id": "n3",
+   "title": "THREE",
+   "glyph": "\u2726",
+   "sub": "the light",
+   "text": "Three. Your joy is contagious."
+  },
+  {
+   "id": "n4",
+   "title": "FOUR",
+   "glyph": "\u2726",
+   "sub": "the builder",
+   "text": "Four. People build their lives on your loyalty."
+  },
+  {
+   "id": "n5",
+   "title": "FIVE",
+   "glyph": "\u2726",
+   "sub": "the free spirit",
+   "text": "Five. You were born to be free."
+  },
+  {
+   "id": "n6",
+   "title": "SIX",
+   "glyph": "\u2726",
+   "sub": "the heart",
+   "text": "Six. You love like a home."
+  },
+  {
+   "id": "n7",
+   "title": "SEVEN",
+   "glyph": "\u2726",
+   "sub": "the seer",
+   "text": "Seven. You see what others miss."
+  },
+  {
+   "id": "n8",
+   "title": "EIGHT",
+   "glyph": "\u2726",
+   "sub": "the maker",
+   "text": "Eight. You turn effort into abundance."
+  },
+  {
+   "id": "n9",
+   "title": "NINE",
+   "glyph": "\u2726",
+   "sub": "the old soul",
+   "text": "Nine. An old soul, here to heal."
+  },
+  {
+   "id": "cta",
+   "text": "What's your number? Comment it, and send this to someone who shares it."
+  }
+ ]
+}

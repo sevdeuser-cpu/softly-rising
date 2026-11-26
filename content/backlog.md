@@ -15,7 +15,7 @@
 - What each sign is secretly afraid of losing
 
 ## Pillar 2 — Birth day / weekday / numerology (25%)
-- Your birth number 1–9 and the gift it carries (sum of birth-day digits)
+- ~~Your birth number 1–9 and the gift it carries~~ (done: 003)
 - Your life path number in 60 seconds (how to calculate + meaning)
 - Angel numbers 111–999: what each one is telling you
 - The month you were born and its birthstone's quiet meaning

@@ -192,7 +192,7 @@ window.setFrame=(t)=>{
   // label (day title) with pop
   const L=document.querySelector('#label .n'),Lc=document.querySelector('#label .c');
   const ttlText=s.day||s.title;
-  if(ttlText){const kk=(s.root||ttlText).length;L.innerHTML=[...ttlText].map((c,j)=>{const q=eb((u-.05-j*.035)/.4);return `<span style="opacity:${cl((u-.05-j*.035)/.12)*(j<kk?1:.4)};transform:translateY(${(1-q)*30}px) scale(${.6+.4*q})">${c}</span>`}).join('');
+  if(ttlText){const kk=(s.root||ttlText).length;L.innerHTML=[...ttlText].map((c,j)=>{const q=eb((u-.05-j*.035)/.4);return `<span style="opacity:${cl((u-.05-j*.035)/.12)*(j<kk?1:.4)};transform:translateY(${(1-q)*30}px) scale(${.6+.4*q})">${c===' '?'&nbsp;':c}</span>`}).join('');
     const idx=days.indexOf(s)+1; Lc.textContent=`${s.glyph||GLYPH[s.id]||''}  ${(s.sub||'').toUpperCase()}  ·  ${String(idx).padStart(days.length>9?2:1,'0')} / ${days.length}`;Lc.style.opacity=eo((u-.4)/.4);}
   else{L.innerHTML='';Lc.textContent='';}
   // captions: word pop, key words bigger + gold
