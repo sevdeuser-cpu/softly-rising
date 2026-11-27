@@ -1,7 +1,7 @@
 # Topic backlog (pick by pillar rotation; mark used topics in content/published.json)
 
 ## Pillar 1 — Zodiac & relationships (40%) · 12-sign list, "01/12" counter, one acted mini-scene per sign
-- What each sign does when they're secretly hurt
+- ~~What each sign does when they're secretly hurt~~ (done: 005)
 - The text each sign sends at 2 AM
 - How each sign apologizes (without saying sorry)
 - What each sign needs after a breakup
@@ -17,7 +17,7 @@
 ## Pillar 2 — Birth day / weekday / numerology (25%)
 - ~~Your birth number 1–9 and the gift it carries~~ (done: 003)
 - Your life path number in 60 seconds (how to calculate + meaning)
-- Angel numbers 111–999: what each one is telling you
+- ~~Angel numbers 111–999: what each one is telling you~~ (done: 006)
 - The month you were born and its birthstone's quiet meaning
 - Born at night vs. born in the morning: your rising energy
 - The last digit of your birth year and your element (Chinese 5 elements, factual)

@@ -1,0 +1,19 @@
+{
+ "title": "Angel Numbers 111 to 999: What They're Trying to Tell You",
+ "voice": "af_nicole:0.7,af_heart:0.3", "speed": 1.1,
+ "hook": ["KEEP SEEING", "the same", "NUMBERS?"],
+ "keys": ["beginning","wish","trust","timing","supported","protected","change","rest","path","abundance","ending","better","number","numbers"],
+ "segments": [
+  {"id":"hook","text":"Keep seeing the same numbers? Here's what they're trying to tell you."},
+  {"id":"a111","title":"111","glyph":"✦","sub":"new beginnings","text":"One, one, one. A new beginning is opening. Make a wish."},
+  {"id":"a222","title":"222","glyph":"✦","sub":"divine timing","text":"Two, two, two. Trust the timing. It's all aligning."},
+  {"id":"a333","title":"333","glyph":"✦","sub":"you are supported","text":"Three, three, three. You're more supported than you know."},
+  {"id":"a444","title":"444","glyph":"✦","sub":"protection","text":"Four, four, four. You are protected."},
+  {"id":"a555","title":"555","glyph":"✦","sub":"big change","text":"Five, five, five. A big change is on its way."},
+  {"id":"a666","title":"666","glyph":"✦","sub":"come back to yourself","text":"Six, six, six. Come back to yourself, and rest."},
+  {"id":"a777","title":"777","glyph":"✦","sub":"right path","text":"Seven, seven, seven. You're exactly on the right path."},
+  {"id":"a888","title":"888","glyph":"✦","sub":"abundance","text":"Eight, eight, eight. Abundance is flowing in."},
+  {"id":"a999","title":"999","glyph":"✦","sub":"completion","text":"Nine, nine, nine. Something is ending, so something better can begin."},
+  {"id":"cta","text":"Which number keeps finding you? Comment it below."}
+ ]
+}

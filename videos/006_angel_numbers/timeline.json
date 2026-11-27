@@ -1,0 +1,545 @@
+{
+ "duration": 45.738,
+ "segments": [
+  {
+   "id": "hook",
+   "text": "Keep seeing the same numbers? Here's what they're trying to tell you.",
+   "start": 0.12,
+   "end": 4.076,
+   "words": [
+    {
+     "w": "Keep",
+     "t": 0.12
+    },
+    {
+     "w": "seeing",
+     "t": 0.396
+    },
+    {
+     "w": "the",
+     "t": 0.764
+    },
+    {
+     "w": "same",
+     "t": 0.994
+    },
+    {
+     "w": "numbers?",
+     "t": 1.27
+    },
+    {
+     "w": "Here's",
+     "t": 1.822
+    },
+    {
+     "w": "what",
+     "t": 2.19
+    },
+    {
+     "w": "they're",
+     "t": 2.466
+    },
+    {
+     "w": "trying",
+     "t": 2.88
+    },
+    {
+     "w": "to",
+     "t": 3.248
+    },
+    {
+     "w": "tell",
+     "t": 3.432
+    },
+    {
+     "w": "you.",
+     "t": 3.708
+    }
+   ]
+  },
+  {
+   "id": "a111",
+   "title": "111",
+   "glyph": "\u2726",
+   "sub": "new beginnings",
+   "text": "One, one, one. A new beginning is opening. Make a wish.",
+   "start": 4.296,
+   "end": 8.515,
+   "words": [
+    {
+     "w": "One,",
+     "t": 4.296
+    },
+    {
+     "w": "one,",
+     "t": 4.735
+    },
+    {
+     "w": "one.",
+     "t": 5.173
+    },
+    {
+     "w": "A",
+     "t": 5.611
+    },
+    {
+     "w": "new",
+     "t": 5.776
+    },
+    {
+     "w": "beginning",
+     "t": 6.05
+    },
+    {
+     "w": "is",
+     "t": 6.652
+    },
+    {
+     "w": "opening.",
+     "t": 6.872
+    },
+    {
+     "w": "Make",
+     "t": 7.529
+    },
+    {
+     "w": "a",
+     "t": 7.858
+    },
+    {
+     "w": "wish.",
+     "t": 8.022
+    }
+   ]
+  },
+  {
+   "id": "a222",
+   "title": "222",
+   "glyph": "\u2726",
+   "sub": "divine timing",
+   "text": "Two, two, two. Trust the timing. It's all aligning.",
+   "start": 8.735,
+   "end": 12.534,
+   "words": [
+    {
+     "w": "Two,",
+     "t": 8.735
+    },
+    {
+     "w": "two,",
+     "t": 9.163
+    },
+    {
+     "w": "two.",
+     "t": 9.591
+    },
+    {
+     "w": "Trust",
+     "t": 10.019
+    },
+    {
+     "w": "the",
+     "t": 10.394
+    },
+    {
+     "w": "timing.",
+     "t": 10.661
+    },
+    {
+     "w": "It's",
+     "t": 11.25
+    },
+    {
+     "w": "all",
+     "t": 11.571
+    },
+    {
+     "w": "aligning.",
+     "t": 11.838
+    }
+   ]
+  },
+  {
+   "id": "a333",
+   "title": "333",
+   "glyph": "\u2726",
+   "sub": "you are supported",
+   "text": "Three, three, three. You're more supported than you know.",
+   "start": 12.754,
+   "end": 16.022,
+   "words": [
+    {
+     "w": "Three,",
+     "t": 12.754
+    },
+    {
+     "w": "three,",
+     "t": 13.19
+    },
+    {
+     "w": "three.",
+     "t": 13.626
+    },
+    {
+     "w": "You're",
+     "t": 14.061
+    },
+    {
+     "w": "more",
+     "t": 14.41
+    },
+    {
+     "w": "supported",
+     "t": 14.671
+    },
+    {
+     "w": "than",
+     "t": 15.151
+    },
+    {
+     "w": "you",
+     "t": 15.412
+    },
+    {
+     "w": "know.",
+     "t": 15.63
+    }
+   ]
+  },
+  {
+   "id": "a444",
+   "title": "444",
+   "glyph": "\u2726",
+   "sub": "protection",
+   "text": "Four, four, four. You are protected.",
+   "start": 16.242,
+   "end": 18.759,
+   "words": [
+    {
+     "w": "Four,",
+     "t": 16.242
+    },
+    {
+     "w": "four,",
+     "t": 16.686
+    },
+    {
+     "w": "four.",
+     "t": 17.13
+    },
+    {
+     "w": "You",
+     "t": 17.575
+    },
+    {
+     "w": "are",
+     "t": 17.821
+    },
+    {
+     "w": "protected.",
+     "t": 18.068
+    }
+   ]
+  },
+  {
+   "id": "a555",
+   "title": "555",
+   "glyph": "\u2726",
+   "sub": "big change",
+   "text": "Five, five, five. A big change is on its way.",
+   "start": 18.979,
+   "end": 22.602,
+   "words": [
+    {
+     "w": "Five,",
+     "t": 18.979
+    },
+    {
+     "w": "five,",
+     "t": 19.488
+    },
+    {
+     "w": "five.",
+     "t": 19.998
+    },
+    {
+     "w": "A",
+     "t": 20.508
+    },
+    {
+     "w": "big",
+     "t": 20.677
+    },
+    {
+     "w": "change",
+     "t": 20.96
+    },
+    {
+     "w": "is",
+     "t": 21.413
+    },
+    {
+     "w": "on",
+     "t": 21.64
+    },
+    {
+     "w": "its",
+     "t": 21.866
+    },
+    {
+     "w": "way.",
+     "t": 22.149
+    }
+   ]
+  },
+  {
+   "id": "a666",
+   "title": "666",
+   "glyph": "\u2726",
+   "sub": "come back to yourself",
+   "text": "Six, six, six. Come back to yourself, and rest.",
+   "start": 22.822,
+   "end": 26.29,
+   "words": [
+    {
+     "w": "Six,",
+     "t": 22.822
+    },
+    {
+     "w": "six,",
+     "t": 23.236
+    },
+    {
+     "w": "six.",
+     "t": 23.65
+    },
+    {
+     "w": "Come",
+     "t": 24.064
+    },
+    {
+     "w": "back",
+     "t": 24.375
+    },
+    {
+     "w": "to",
+     "t": 24.686
+    },
+    {
+     "w": "yourself,",
+     "t": 24.893
+    },
+    {
+     "w": "and",
+     "t": 25.565
+    },
+    {
+     "w": "rest.",
+     "t": 25.824
+    }
+   ]
+  },
+  {
+   "id": "a777",
+   "title": "777",
+   "glyph": "\u2726",
+   "sub": "right path",
+   "text": "Seven, seven, seven. You're exactly on the right path.",
+   "start": 26.51,
+   "end": 30.444,
+   "words": [
+    {
+     "w": "Seven,",
+     "t": 26.51
+    },
+    {
+     "w": "seven,",
+     "t": 27.056
+    },
+    {
+     "w": "seven.",
+     "t": 27.603
+    },
+    {
+     "w": "You're",
+     "t": 28.149
+    },
+    {
+     "w": "exactly",
+     "t": 28.586
+    },
+    {
+     "w": "on",
+     "t": 29.078
+    },
+    {
+     "w": "the",
+     "t": 29.297
+    },
+    {
+     "w": "right",
+     "t": 29.57
+    },
+    {
+     "w": "path.",
+     "t": 29.952
+    }
+   ]
+  },
+  {
+   "id": "a888",
+   "title": "888",
+   "glyph": "\u2726",
+   "sub": "abundance",
+   "text": "Eight, eight, eight. Abundance is flowing in.",
+   "start": 30.664,
+   "end": 33.702,
+   "words": [
+    {
+     "w": "Eight,",
+     "t": 30.664
+    },
+    {
+     "w": "eight,",
+     "t": 31.162
+    },
+    {
+     "w": "eight.",
+     "t": 31.66
+    },
+    {
+     "w": "Abundance",
+     "t": 32.158
+    },
+    {
+     "w": "is",
+     "t": 32.706
+    },
+    {
+     "w": "flowing",
+     "t": 32.905
+    },
+    {
+     "w": "in.",
+     "t": 33.354
+    }
+   ]
+  },
+  {
+   "id": "a999",
+   "title": "999",
+   "glyph": "\u2726",
+   "sub": "completion",
+   "text": "Nine, nine, nine. Something is ending, so something better can begin.",
+   "start": 33.922,
+   "end": 38.863,
+   "words": [
+    {
+     "w": "Nine,",
+     "t": 33.922
+    },
+    {
+     "w": "nine,",
+     "t": 34.411
+    },
+    {
+     "w": "nine.",
+     "t": 34.9
+    },
+    {
+     "w": "Something",
+     "t": 35.388
+    },
+    {
+     "w": "is",
+     "t": 35.986
+    },
+    {
+     "w": "ending,",
+     "t": 36.203
+    },
+    {
+     "w": "so",
+     "t": 36.8
+    },
+    {
+     "w": "something",
+     "t": 37.017
+    },
+    {
+     "w": "better",
+     "t": 37.615
+    },
+    {
+     "w": "can",
+     "t": 38.049
+    },
+    {
+     "w": "begin.",
+     "t": 38.32
+    }
+   ]
+  },
+  {
+   "id": "cta",
+   "text": "Which number keeps finding you? Comment it below.",
+   "start": 39.083,
+   "end": 42.118,
+   "words": [
+    {
+     "w": "Which",
+     "t": 39.083
+    },
+    {
+     "w": "number",
+     "t": 39.426
+    },
+    {
+     "w": "keeps",
+     "t": 39.818
+    },
+    {
+     "w": "finding",
+     "t": 40.16
+    },
+    {
+     "w": "you?",
+     "t": 40.601
+    },
+    {
+     "w": "Comment",
+     "t": 40.992
+    },
+    {
+     "w": "it",
+     "t": 41.433
+    },
+    {
+     "w": "below.",
+     "t": 41.629
+    }
+   ]
+  }
+ ],
+ "hook": [
+  "KEEP SEEING",
+  "the same",
+  "NUMBERS?"
+ ],
+ "keys": [
+  "beginning",
+  "wish",
+  "trust",
+  "timing",
+  "supported",
+  "protected",
+  "change",
+  "rest",
+  "path",
+  "abundance",
+  "ending",
+  "better",
+  "number",
+  "numbers"
+ ]
+}

@@ -1,0 +1,22 @@
+{
+ "title": "What Each Zodiac Sign Does When They're Secretly Hurt",
+ "voice": "af_nicole:0.7,af_heart:0.3", "speed": 1.12,
+ "hook": ["EVERY SIGN", "hides their", "HURT"],
+ "keys": ["louder","fight","quiet","joke","midnight","care","list","fine","disappears","trip","works","cold","song","hurt","sign","aries","taurus","gemini","cancer","leo","virgo","libra","scorpio","sagittarius","capricorn","aquarius","pisces"],
+ "segments": [
+  {"id":"hook","text":"Every sign hides their hurt differently. Here's how to tell."},
+  {"id":"aries","title":"ARIES","glyph":"♈","sub":"fire · mars","text":"Aries gets louder, and picks a fight about nothing."},
+  {"id":"taurus","title":"TAURUS","glyph":"♉","sub":"earth · venus","text":"Taurus goes quiet, and eats their feelings."},
+  {"id":"gemini","title":"GEMINI","glyph":"♊","sub":"air · mercury","text":"Gemini turns it into a joke."},
+  {"id":"cancer","title":"CANCER","glyph":"♋","sub":"water · moon","text":"Cancer cleans the whole house at midnight."},
+  {"id":"leo","title":"LEO","glyph":"♌","sub":"fire · sun","text":"Leo acts like they don't care. They care."},
+  {"id":"virgo","title":"VIRGO","glyph":"♍","sub":"earth · mercury","text":"Virgo makes a list, and finishes all of it."},
+  {"id":"libra","title":"LIBRA","glyph":"♎","sub":"air · venus","text":"Libra says I'm fine, with a perfect smile."},
+  {"id":"scorpio","title":"SCORPIO","glyph":"♏","sub":"water · pluto","text":"Scorpio disappears, and watches from a distance."},
+  {"id":"sagittarius","title":"SAGITTARIUS","glyph":"♐","sub":"fire · jupiter","text":"Sagittarius books a trip. Anywhere but here."},
+  {"id":"capricorn","title":"CAPRICORN","glyph":"♑","sub":"earth · saturn","text":"Capricorn works until they can't feel it."},
+  {"id":"aquarius","title":"AQUARIUS","glyph":"♒","sub":"air · uranus","text":"Aquarius goes cold, and calls it logic."},
+  {"id":"pisces","title":"PISCES","glyph":"♓","sub":"water · neptune","text":"Pisces writes it into a song no one will hear."},
+  {"id":"cta","text":"Which one is you? Comment your sign, and check on the one you love."}
+ ]
+}

@@ -1,0 +1,651 @@
+{
+ "duration": 49.172,
+ "segments": [
+  {
+   "id": "hook",
+   "text": "Every sign hides their hurt differently. Here's how to tell.",
+   "start": 0.12,
+   "end": 3.987,
+   "words": [
+    {
+     "w": "Every",
+     "t": 0.12
+    },
+    {
+     "w": "sign",
+     "t": 0.481
+    },
+    {
+     "w": "hides",
+     "t": 0.79
+    },
+    {
+     "w": "their",
+     "t": 1.151
+    },
+    {
+     "w": "hurt",
+     "t": 1.512
+    },
+    {
+     "w": "differently.",
+     "t": 1.822
+    },
+    {
+     "w": "Here's",
+     "t": 2.647
+    },
+    {
+     "w": "how",
+     "t": 3.059
+    },
+    {
+     "w": "to",
+     "t": 3.317
+    },
+    {
+     "w": "tell.",
+     "t": 3.523
+    }
+   ]
+  },
+  {
+   "id": "aries",
+   "title": "ARIES",
+   "glyph": "\u2648",
+   "sub": "fire \u00b7 mars",
+   "text": "Aries gets louder, and picks a fight about nothing.",
+   "start": 4.207,
+   "end": 7.44,
+   "words": [
+    {
+     "w": "Aries",
+     "t": 4.207
+    },
+    {
+     "w": "gets",
+     "t": 4.555
+    },
+    {
+     "w": "louder,",
+     "t": 4.854
+    },
+    {
+     "w": "and",
+     "t": 5.401
+    },
+    {
+     "w": "picks",
+     "t": 5.649
+    },
+    {
+     "w": "a",
+     "t": 5.998
+    },
+    {
+     "w": "fight",
+     "t": 6.147
+    },
+    {
+     "w": "about",
+     "t": 6.495
+    },
+    {
+     "w": "nothing.",
+     "t": 6.843
+    }
+   ]
+  },
+  {
+   "id": "taurus",
+   "title": "TAURUS",
+   "glyph": "\u2649",
+   "sub": "earth \u00b7 venus",
+   "text": "Taurus goes quiet, and eats their feelings.",
+   "start": 7.66,
+   "end": 10.501,
+   "words": [
+    {
+     "w": "Taurus",
+     "t": 7.66
+    },
+    {
+     "w": "goes",
+     "t": 8.073
+    },
+    {
+     "w": "quiet,",
+     "t": 8.383
+    },
+    {
+     "w": "and",
+     "t": 8.899
+    },
+    {
+     "w": "eats",
+     "t": 9.158
+    },
+    {
+     "w": "their",
+     "t": 9.468
+    },
+    {
+     "w": "feelings.",
+     "t": 9.829
+    }
+   ]
+  },
+  {
+   "id": "gemini",
+   "title": "GEMINI",
+   "glyph": "\u264a",
+   "sub": "air \u00b7 mercury",
+   "text": "Gemini turns it into a joke.",
+   "start": 10.721,
+   "end": 12.788,
+   "words": [
+    {
+     "w": "Gemini",
+     "t": 10.721
+    },
+    {
+     "w": "turns",
+     "t": 11.168
+    },
+    {
+     "w": "it",
+     "t": 11.559
+    },
+    {
+     "w": "into",
+     "t": 11.782
+    },
+    {
+     "w": "a",
+     "t": 12.118
+    },
+    {
+     "w": "joke.",
+     "t": 12.285
+    }
+   ]
+  },
+  {
+   "id": "cancer",
+   "title": "CANCER",
+   "glyph": "\u264b",
+   "sub": "water \u00b7 moon",
+   "text": "Cancer cleans the whole house at midnight.",
+   "start": 13.008,
+   "end": 15.419,
+   "words": [
+    {
+     "w": "Cancer",
+     "t": 13.008
+    },
+    {
+     "w": "cleans",
+     "t": 13.379
+    },
+    {
+     "w": "the",
+     "t": 13.75
+    },
+    {
+     "w": "whole",
+     "t": 13.982
+    },
+    {
+     "w": "house",
+     "t": 14.306
+    },
+    {
+     "w": "at",
+     "t": 14.631
+    },
+    {
+     "w": "midnight.",
+     "t": 14.816
+    }
+   ]
+  },
+  {
+   "id": "leo",
+   "title": "LEO",
+   "glyph": "\u264c",
+   "sub": "fire \u00b7 sun",
+   "text": "Leo acts like they don't care. They care.",
+   "start": 15.639,
+   "end": 18.277,
+   "words": [
+    {
+     "w": "Leo",
+     "t": 15.639
+    },
+    {
+     "w": "acts",
+     "t": 15.883
+    },
+    {
+     "w": "like",
+     "t": 16.176
+    },
+    {
+     "w": "they",
+     "t": 16.47
+    },
+    {
+     "w": "don't",
+     "t": 16.763
+    },
+    {
+     "w": "care.",
+     "t": 17.105
+    },
+    {
+     "w": "They",
+     "t": 17.544
+    },
+    {
+     "w": "care.",
+     "t": 17.838
+    }
+   ]
+  },
+  {
+   "id": "virgo",
+   "title": "VIRGO",
+   "glyph": "\u264d",
+   "sub": "earth \u00b7 mercury",
+   "text": "Virgo makes a list, and finishes all of it.",
+   "start": 18.497,
+   "end": 21.328,
+   "words": [
+    {
+     "w": "Virgo",
+     "t": 18.497
+    },
+    {
+     "w": "makes",
+     "t": 18.845
+    },
+    {
+     "w": "a",
+     "t": 19.193
+    },
+    {
+     "w": "list,",
+     "t": 19.342
+    },
+    {
+     "w": "and",
+     "t": 19.789
+    },
+    {
+     "w": "finishes",
+     "t": 20.037
+    },
+    {
+     "w": "all",
+     "t": 20.534
+    },
+    {
+     "w": "of",
+     "t": 20.782
+    },
+    {
+     "w": "it.",
+     "t": 20.981
+    }
+   ]
+  },
+  {
+   "id": "libra",
+   "title": "LIBRA",
+   "glyph": "\u264e",
+   "sub": "air \u00b7 venus",
+   "text": "Libra says I'm fine, with a perfect smile.",
+   "start": 21.548,
+   "end": 24.521,
+   "words": [
+    {
+     "w": "Libra",
+     "t": 21.548
+    },
+    {
+     "w": "says",
+     "t": 21.927
+    },
+    {
+     "w": "I'm",
+     "t": 22.251
+    },
+    {
+     "w": "fine,",
+     "t": 22.521
+    },
+    {
+     "w": "with",
+     "t": 23.008
+    },
+    {
+     "w": "a",
+     "t": 23.332
+    },
+    {
+     "w": "perfect",
+     "t": 23.494
+    },
+    {
+     "w": "smile.",
+     "t": 23.981
+    }
+   ]
+  },
+  {
+   "id": "scorpio",
+   "title": "SCORPIO",
+   "glyph": "\u264f",
+   "sub": "water \u00b7 pluto",
+   "text": "Scorpio disappears, and watches from a distance.",
+   "start": 24.741,
+   "end": 28.034,
+   "words": [
+    {
+     "w": "Scorpio",
+     "t": 24.741
+    },
+    {
+     "w": "disappears,",
+     "t": 25.235
+    },
+    {
+     "w": "and",
+     "t": 26.059
+    },
+    {
+     "w": "watches",
+     "t": 26.333
+    },
+    {
+     "w": "from",
+     "t": 26.827
+    },
+    {
+     "w": "a",
+     "t": 27.156
+    },
+    {
+     "w": "distance.",
+     "t": 27.321
+    }
+   ]
+  },
+  {
+   "id": "sagittarius",
+   "title": "SAGITTARIUS",
+   "glyph": "\u2650",
+   "sub": "fire \u00b7 jupiter",
+   "text": "Sagittarius books a trip. Anywhere but here.",
+   "start": 28.254,
+   "end": 31.255,
+   "words": [
+    {
+     "w": "Sagittarius",
+     "t": 28.254
+    },
+    {
+     "w": "books",
+     "t": 28.951
+    },
+    {
+     "w": "a",
+     "t": 29.326
+    },
+    {
+     "w": "trip.",
+     "t": 29.487
+    },
+    {
+     "w": "Anywhere",
+     "t": 29.969
+    },
+    {
+     "w": "but",
+     "t": 30.505
+    },
+    {
+     "w": "here.",
+     "t": 30.772
+    }
+   ]
+  },
+  {
+   "id": "capricorn",
+   "title": "CAPRICORN",
+   "glyph": "\u2651",
+   "sub": "earth \u00b7 saturn",
+   "text": "Capricorn works until they can't feel it.",
+   "start": 31.475,
+   "end": 34.211,
+   "words": [
+    {
+     "w": "Capricorn",
+     "t": 31.475
+    },
+    {
+     "w": "works",
+     "t": 32.065
+    },
+    {
+     "w": "until",
+     "t": 32.44
+    },
+    {
+     "w": "they",
+     "t": 32.816
+    },
+    {
+     "w": "can't",
+     "t": 33.138
+    },
+    {
+     "w": "feel",
+     "t": 33.513
+    },
+    {
+     "w": "it.",
+     "t": 33.835
+    }
+   ]
+  },
+  {
+   "id": "aquarius",
+   "title": "AQUARIUS",
+   "glyph": "\u2652",
+   "sub": "air \u00b7 uranus",
+   "text": "Aquarius goes cold, and calls it logic.",
+   "start": 34.431,
+   "end": 37.481,
+   "words": [
+    {
+     "w": "Aquarius",
+     "t": 34.431
+    },
+    {
+     "w": "goes",
+     "t": 35.029
+    },
+    {
+     "w": "cold,",
+     "t": 35.388
+    },
+    {
+     "w": "and",
+     "t": 35.926
+    },
+    {
+     "w": "calls",
+     "t": 36.225
+    },
+    {
+     "w": "it",
+     "t": 36.644
+    },
+    {
+     "w": "logic.",
+     "t": 36.883
+    }
+   ]
+  },
+  {
+   "id": "pisces",
+   "title": "PISCES",
+   "glyph": "\u2653",
+   "sub": "water \u00b7 neptune",
+   "text": "Pisces writes it into a song no one will hear.",
+   "start": 37.701,
+   "end": 41.007,
+   "words": [
+    {
+     "w": "Pisces",
+     "t": 37.701
+    },
+    {
+     "w": "writes",
+     "t": 38.149
+    },
+    {
+     "w": "it",
+     "t": 38.597
+    },
+    {
+     "w": "into",
+     "t": 38.822
+    },
+    {
+     "w": "a",
+     "t": 39.158
+    },
+    {
+     "w": "song",
+     "t": 39.326
+    },
+    {
+     "w": "no",
+     "t": 39.662
+    },
+    {
+     "w": "one",
+     "t": 39.886
+    },
+    {
+     "w": "will",
+     "t": 40.167
+    },
+    {
+     "w": "hear.",
+     "t": 40.503
+    }
+   ]
+  },
+  {
+   "id": "cta",
+   "text": "Which one is you? Comment your sign, and check on the one you love.",
+   "start": 41.227,
+   "end": 45.552,
+   "words": [
+    {
+     "w": "Which",
+     "t": 41.227
+    },
+    {
+     "w": "one",
+     "t": 41.571
+    },
+    {
+     "w": "is",
+     "t": 41.817
+    },
+    {
+     "w": "you?",
+     "t": 42.014
+    },
+    {
+     "w": "Comment",
+     "t": 42.407
+    },
+    {
+     "w": "your",
+     "t": 42.849
+    },
+    {
+     "w": "sign,",
+     "t": 43.144
+    },
+    {
+     "w": "and",
+     "t": 43.586
+    },
+    {
+     "w": "check",
+     "t": 43.832
+    },
+    {
+     "w": "on",
+     "t": 44.176
+    },
+    {
+     "w": "the",
+     "t": 44.373
+    },
+    {
+     "w": "one",
+     "t": 44.618
+    },
+    {
+     "w": "you",
+     "t": 44.864
+    },
+    {
+     "w": "love.",
+     "t": 45.11
+    }
+   ]
+  }
+ ],
+ "hook": [
+  "EVERY SIGN",
+  "hides their",
+  "HURT"
+ ],
+ "keys": [
+  "louder",
+  "fight",
+  "quiet",
+  "joke",
+  "midnight",
+  "care",
+  "list",
+  "fine",
+  "disappears",
+  "trip",
+  "works",
+  "cold",
+  "song",
+  "hurt",
+  "sign",
+  "aries",
+  "taurus",
+  "gemini",
+  "cancer",
+  "leo",
+  "virgo",
+  "libra",
+  "scorpio",
+  "sagittarius",
+  "capricorn",
+  "aquarius",
+  "pisces"
+ ]
+}
