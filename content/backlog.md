@@ -3,7 +3,7 @@
 ## Pillar 1 — Zodiac & relationships (40%) · 12-sign list, "01/12" counter, one acted mini-scene per sign
 - ~~What each sign does when they're secretly hurt~~ (done: 005)
 - The text each sign sends at 2 AM
-- How each sign apologizes (without saying sorry)
+- ~~How each sign apologizes (without saying sorry)~~ (done: 007)
 - What each sign needs after a breakup
 - Each sign's hidden superpower
 - What each sign's silence really means
@@ -25,7 +25,7 @@
 ## Pillar 3 — Sky calendar (20%) · ALWAYS verify with `python3 tools/sky_events.py 75`
 - Upcoming full moon (traditional name + sign), what it "closes" for each element
 - New moon intentions for each sign
-- Solstice / equinox — what the turning sky means
+- ~~Solstice / equinox — what the turning sky means~~ (done: 008, Dec 2026 solstice)
 - Mercury retrograde survival guide (only when one is upcoming)
 - Eclipses 2027: Feb 6 annular solar eclipse, Aug 2 total solar eclipse (Spain/N. Africa/Egypt)
 

@@ -1,0 +1,17 @@
+{
+ "title": "The Winter Solstice: The Longest Night, and the Light's Return",
+ "voice": "af_nicole:0.7,af_heart:0.3", "speed": 1.1,
+ "hook": ["THE LONGEST", "night of the", "YEAR"],
+ "keys": ["longest","light","solstice","sun","lowest","newgrange","sunrise","stonehenge","sunset","capricorn","building","dark","candle","rest","seeds"],
+ "segments": [
+  {"id":"hook","text":"On December twenty-first, the longest night of the year arrives. And then, the light comes back."},
+  {"id":"low","text":"At the winter solstice, the Sun reaches its lowest point in the northern sky."},
+  {"id":"newgrange","text":"Five thousand years ago, Newgrange in Ireland was built so the solstice sunrise fills its inner chamber."},
+  {"id":"stonehenge","text":"And Stonehenge frames the solstice sunset."},
+  {"id":"capricorn","text":"In astrology, this is the moment the Sun enters Capricorn, the sign of slow, steady building."},
+  {"id":"step1","title":"LET GO","glyph":"✦","sub":"step one","text":"Write down what you're leaving in the dark."},
+  {"id":"step2","title":"LIGHT","glyph":"✦","sub":"step two","text":"Light one candle for what you're calling in."},
+  {"id":"step3","title":"REST","glyph":"✦","sub":"step three","text":"Then rest. Seeds grow in the dark."},
+  {"id":"cta","text":"Save this for the twenty-first, and tell me what you're calling in."}
+ ]
+}

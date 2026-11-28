@@ -1,0 +1,22 @@
+{
+ "title": "How Each Zodiac Sign Apologizes (Without Saying Sorry)",
+ "voice": "af_nicole:0.7,af_heart:0.3", "speed": 1.12,
+ "hook": ["NO SIGN", "says sorry the", "SAME WAY"],
+ "keys": ["snack","flowers","memes","letter","surprise","fixes","beautiful","gaze","laugh","time","explains","cries","sorry","apology","sign","aries","taurus","gemini","cancer","leo","virgo","libra","scorpio","sagittarius","capricorn","aquarius","pisces"],
+ "segments": [
+  {"id":"hook","text":"No sign says sorry the same way. Here's how each one does it."},
+  {"id":"aries","title":"ARIES","glyph":"♈","sub":"fire · mars","text":"Aries brings you a snack, and acts like nothing happened."},
+  {"id":"taurus","title":"TAURUS","glyph":"♉","sub":"earth · venus","text":"Taurus shows up with your favorite flowers."},
+  {"id":"gemini","title":"GEMINI","glyph":"♊","sub":"air · mercury","text":"Gemini sends you forty memes."},
+  {"id":"cancer","title":"CANCER","glyph":"♋","sub":"water · moon","text":"Cancer writes you a three page letter."},
+  {"id":"leo","title":"LEO","glyph":"♌","sub":"fire · sun","text":"Leo plans a grand surprise."},
+  {"id":"virgo","title":"VIRGO","glyph":"♍","sub":"earth · mercury","text":"Virgo quietly fixes what they broke."},
+  {"id":"libra","title":"LIBRA","glyph":"♎","sub":"air · venus","text":"Libra makes everything beautiful again."},
+  {"id":"scorpio","title":"SCORPIO","glyph":"♏","sub":"water · pluto","text":"Scorpio just holds your gaze. That's the apology."},
+  {"id":"sagittarius","title":"SAGITTARIUS","glyph":"♐","sub":"fire · jupiter","text":"Sagittarius makes you laugh until you forget."},
+  {"id":"capricorn","title":"CAPRICORN","glyph":"♑","sub":"earth · saturn","text":"Capricorn shows up on time, every day after."},
+  {"id":"aquarius","title":"AQUARIUS","glyph":"♒","sub":"air · uranus","text":"Aquarius explains exactly why it happened."},
+  {"id":"pisces","title":"PISCES","glyph":"♓","sub":"water · neptune","text":"Pisces cries before you can."},
+  {"id":"cta","text":"Which one apologized to you? Comment your sign, and send this to them."}
+ ]
+}

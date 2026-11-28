@@ -1,0 +1,607 @@
+{
+ "duration": 47.485,
+ "segments": [
+  {
+   "id": "hook",
+   "text": "No sign says sorry the same way. Here's how each one does it.",
+   "start": 0.12,
+   "end": 4.3,
+   "words": [
+    {
+     "w": "No",
+     "t": 0.12
+    },
+    {
+     "w": "sign",
+     "t": 0.332
+    },
+    {
+     "w": "says",
+     "t": 0.649
+    },
+    {
+     "w": "sorry",
+     "t": 0.967
+    },
+    {
+     "w": "the",
+     "t": 1.337
+    },
+    {
+     "w": "same",
+     "t": 1.602
+    },
+    {
+     "w": "way.",
+     "t": 1.919
+    },
+    {
+     "w": "Here's",
+     "t": 2.343
+    },
+    {
+     "w": "how",
+     "t": 2.766
+    },
+    {
+     "w": "each",
+     "t": 3.03
+    },
+    {
+     "w": "one",
+     "t": 3.348
+    },
+    {
+     "w": "does",
+     "t": 3.613
+    },
+    {
+     "w": "it.",
+     "t": 3.93
+    }
+   ]
+  },
+  {
+   "id": "aries",
+   "title": "ARIES",
+   "glyph": "\u2648",
+   "sub": "fire \u00b7 mars",
+   "text": "Aries brings you a snack, and acts like nothing happened.",
+   "start": 4.52,
+   "end": 8.185,
+   "words": [
+    {
+     "w": "Aries",
+     "t": 4.52
+    },
+    {
+     "w": "brings",
+     "t": 4.877
+    },
+    {
+     "w": "you",
+     "t": 5.284
+    },
+    {
+     "w": "a",
+     "t": 5.538
+    },
+    {
+     "w": "snack,",
+     "t": 5.691
+    },
+    {
+     "w": "and",
+     "t": 6.2
+    },
+    {
+     "w": "acts",
+     "t": 6.454
+    },
+    {
+     "w": "like",
+     "t": 6.76
+    },
+    {
+     "w": "nothing",
+     "t": 7.065
+    },
+    {
+     "w": "happened.",
+     "t": 7.523
+    }
+   ]
+  },
+  {
+   "id": "taurus",
+   "title": "TAURUS",
+   "glyph": "\u2649",
+   "sub": "earth \u00b7 venus",
+   "text": "Taurus shows up with your favorite flowers.",
+   "start": 8.405,
+   "end": 10.985,
+   "words": [
+    {
+     "w": "Taurus",
+     "t": 8.405
+    },
+    {
+     "w": "shows",
+     "t": 8.794
+    },
+    {
+     "w": "up",
+     "t": 9.135
+    },
+    {
+     "w": "with",
+     "t": 9.33
+    },
+    {
+     "w": "your",
+     "t": 9.622
+    },
+    {
+     "w": "favorite",
+     "t": 9.914
+    },
+    {
+     "w": "flowers.",
+     "t": 10.401
+    }
+   ]
+  },
+  {
+   "id": "gemini",
+   "title": "GEMINI",
+   "glyph": "\u264a",
+   "sub": "air \u00b7 mercury",
+   "text": "Gemini sends you forty memes.",
+   "start": 11.205,
+   "end": 13.371,
+   "words": [
+    {
+     "w": "Gemini",
+     "t": 11.205
+    },
+    {
+     "w": "sends",
+     "t": 11.674
+    },
+    {
+     "w": "you",
+     "t": 12.083
+    },
+    {
+     "w": "forty",
+     "t": 12.376
+    },
+    {
+     "w": "memes.",
+     "t": 12.786
+    }
+   ]
+  },
+  {
+   "id": "cancer",
+   "title": "CANCER",
+   "glyph": "\u264b",
+   "sub": "water \u00b7 moon",
+   "text": "Cancer writes you a three page letter.",
+   "start": 13.591,
+   "end": 15.887,
+   "words": [
+    {
+     "w": "Cancer",
+     "t": 13.591
+    },
+    {
+     "w": "writes",
+     "t": 13.974
+    },
+    {
+     "w": "you",
+     "t": 14.356
+    },
+    {
+     "w": "a",
+     "t": 14.595
+    },
+    {
+     "w": "three",
+     "t": 14.739
+    },
+    {
+     "w": "page",
+     "t": 15.074
+    },
+    {
+     "w": "letter.",
+     "t": 15.36
+    }
+   ]
+  },
+  {
+   "id": "leo",
+   "title": "LEO",
+   "glyph": "\u264c",
+   "sub": "fire \u00b7 sun",
+   "text": "Leo plans a grand surprise.",
+   "start": 16.107,
+   "end": 17.893,
+   "words": [
+    {
+     "w": "Leo",
+     "t": 16.107
+    },
+    {
+     "w": "plans",
+     "t": 16.362
+    },
+    {
+     "w": "a",
+     "t": 16.719
+    },
+    {
+     "w": "grand",
+     "t": 16.872
+    },
+    {
+     "w": "surprise.",
+     "t": 17.229
+    }
+   ]
+  },
+  {
+   "id": "virgo",
+   "title": "VIRGO",
+   "glyph": "\u264d",
+   "sub": "earth \u00b7 mercury",
+   "text": "Virgo quietly fixes what they broke.",
+   "start": 18.113,
+   "end": 20.476,
+   "words": [
+    {
+     "w": "Virgo",
+     "t": 18.113
+    },
+    {
+     "w": "quietly",
+     "t": 18.48
+    },
+    {
+     "w": "fixes",
+     "t": 18.953
+    },
+    {
+     "w": "what",
+     "t": 19.321
+    },
+    {
+     "w": "they",
+     "t": 19.636
+    },
+    {
+     "w": "broke.",
+     "t": 19.951
+    }
+   ]
+  },
+  {
+   "id": "libra",
+   "title": "LIBRA",
+   "glyph": "\u264e",
+   "sub": "air \u00b7 venus",
+   "text": "Libra makes everything beautiful again.",
+   "start": 20.696,
+   "end": 22.981,
+   "words": [
+    {
+     "w": "Libra",
+     "t": 20.696
+    },
+    {
+     "w": "makes",
+     "t": 21.036
+    },
+    {
+     "w": "everything",
+     "t": 21.377
+    },
+    {
+     "w": "beautiful",
+     "t": 21.96
+    },
+    {
+     "w": "again.",
+     "t": 22.495
+    }
+   ]
+  },
+  {
+   "id": "scorpio",
+   "title": "SCORPIO",
+   "glyph": "\u264f",
+   "sub": "water \u00b7 pluto",
+   "text": "Scorpio just holds your gaze. That's the apology.",
+   "start": 23.201,
+   "end": 26.954,
+   "words": [
+    {
+     "w": "Scorpio",
+     "t": 23.201
+    },
+    {
+     "w": "just",
+     "t": 23.746
+    },
+    {
+     "w": "holds",
+     "t": 24.109
+    },
+    {
+     "w": "your",
+     "t": 24.533
+    },
+    {
+     "w": "gaze.",
+     "t": 24.896
+    },
+    {
+     "w": "That's",
+     "t": 25.441
+    },
+    {
+     "w": "the",
+     "t": 25.925
+    },
+    {
+     "w": "apology.",
+     "t": 26.227
+    }
+   ]
+  },
+  {
+   "id": "sagittarius",
+   "title": "SAGITTARIUS",
+   "glyph": "\u2650",
+   "sub": "fire \u00b7 jupiter",
+   "text": "Sagittarius makes you laugh until you forget.",
+   "start": 27.174,
+   "end": 30.236,
+   "words": [
+    {
+     "w": "Sagittarius",
+     "t": 27.174
+    },
+    {
+     "w": "makes",
+     "t": 27.898
+    },
+    {
+     "w": "you",
+     "t": 28.287
+    },
+    {
+     "w": "laugh",
+     "t": 28.566
+    },
+    {
+     "w": "until",
+     "t": 28.956
+    },
+    {
+     "w": "you",
+     "t": 29.345
+    },
+    {
+     "w": "forget.",
+     "t": 29.624
+    }
+   ]
+  },
+  {
+   "id": "capricorn",
+   "title": "CAPRICORN",
+   "glyph": "\u2651",
+   "sub": "earth \u00b7 saturn",
+   "text": "Capricorn shows up on time, every day after.",
+   "start": 30.456,
+   "end": 33.613,
+   "words": [
+    {
+     "w": "Capricorn",
+     "t": 30.456
+    },
+    {
+     "w": "shows",
+     "t": 31.066
+    },
+    {
+     "w": "up",
+     "t": 31.453
+    },
+    {
+     "w": "on",
+     "t": 31.675
+    },
+    {
+     "w": "time,",
+     "t": 31.896
+    },
+    {
+     "w": "every",
+     "t": 32.395
+    },
+    {
+     "w": "day",
+     "t": 32.783
+    },
+    {
+     "w": "after.",
+     "t": 33.059
+    }
+   ]
+  },
+  {
+   "id": "aquarius",
+   "title": "AQUARIUS",
+   "glyph": "\u2652",
+   "sub": "air \u00b7 uranus",
+   "text": "Aquarius explains exactly why it happened.",
+   "start": 33.833,
+   "end": 36.903,
+   "words": [
+    {
+     "w": "Aquarius",
+     "t": 33.833
+    },
+    {
+     "w": "explains",
+     "t": 34.435
+    },
+    {
+     "w": "exactly",
+     "t": 35.037
+    },
+    {
+     "w": "why",
+     "t": 35.579
+    },
+    {
+     "w": "it",
+     "t": 35.88
+    },
+    {
+     "w": "happened.",
+     "t": 36.12
+    }
+   ]
+  },
+  {
+   "id": "pisces",
+   "title": "PISCES",
+   "glyph": "\u2653",
+   "sub": "water \u00b7 neptune",
+   "text": "Pisces cries before you can.",
+   "start": 37.123,
+   "end": 38.896,
+   "words": [
+    {
+     "w": "Pisces",
+     "t": 37.123
+    },
+    {
+     "w": "cries",
+     "t": 37.517
+    },
+    {
+     "w": "before",
+     "t": 37.862
+    },
+    {
+     "w": "you",
+     "t": 38.256
+    },
+    {
+     "w": "can.",
+     "t": 38.502
+    }
+   ]
+  },
+  {
+   "id": "cta",
+   "text": "Which one apologized to you? Comment your sign, and send this to them.",
+   "start": 39.116,
+   "end": 43.865,
+   "words": [
+    {
+     "w": "Which",
+     "t": 39.116
+    },
+    {
+     "w": "one",
+     "t": 39.486
+    },
+    {
+     "w": "apologized",
+     "t": 39.75
+    },
+    {
+     "w": "to",
+     "t": 40.383
+    },
+    {
+     "w": "you?",
+     "t": 40.594
+    },
+    {
+     "w": "Comment",
+     "t": 41.016
+    },
+    {
+     "w": "your",
+     "t": 41.491
+    },
+    {
+     "w": "sign,",
+     "t": 41.807
+    },
+    {
+     "w": "and",
+     "t": 42.282
+    },
+    {
+     "w": "send",
+     "t": 42.546
+    },
+    {
+     "w": "this",
+     "t": 42.863
+    },
+    {
+     "w": "to",
+     "t": 43.179
+    },
+    {
+     "w": "them.",
+     "t": 43.39
+    }
+   ]
+  }
+ ],
+ "hook": [
+  "NO SIGN",
+  "says sorry the",
+  "SAME WAY"
+ ],
+ "keys": [
+  "snack",
+  "flowers",
+  "memes",
+  "letter",
+  "surprise",
+  "fixes",
+  "beautiful",
+  "gaze",
+  "laugh",
+  "time",
+  "explains",
+  "cries",
+  "sorry",
+  "apology",
+  "sign",
+  "aries",
+  "taurus",
+  "gemini",
+  "cancer",
+  "leo",
+  "virgo",
+  "libra",
+  "scorpio",
+  "sagittarius",
+  "capricorn",
+  "aquarius",
+  "pisces"
+ ]
+}

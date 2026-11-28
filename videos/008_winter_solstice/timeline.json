@@ -1,0 +1,524 @@
+{
+ "duration": 46.363,
+ "segments": [
+  {
+   "id": "hook",
+   "text": "On December twenty-first, the longest night of the year arrives. And then, the light comes back.",
+   "start": 0.12,
+   "end": 6.865,
+   "words": [
+    {
+     "w": "On",
+     "t": 0.12
+    },
+    {
+     "w": "December",
+     "t": 0.345
+    },
+    {
+     "w": "twenty-first,",
+     "t": 0.907
+    },
+    {
+     "w": "the",
+     "t": 1.806
+    },
+    {
+     "w": "longest",
+     "t": 2.087
+    },
+    {
+     "w": "night",
+     "t": 2.593
+    },
+    {
+     "w": "of",
+     "t": 2.987
+    },
+    {
+     "w": "the",
+     "t": 3.211
+    },
+    {
+     "w": "year",
+     "t": 3.492
+    },
+    {
+     "w": "arrives.",
+     "t": 3.83
+    },
+    {
+     "w": "And",
+     "t": 4.504
+    },
+    {
+     "w": "then,",
+     "t": 4.785
+    },
+    {
+     "w": "the",
+     "t": 5.291
+    },
+    {
+     "w": "light",
+     "t": 5.572
+    },
+    {
+     "w": "comes",
+     "t": 5.966
+    },
+    {
+     "w": "back.",
+     "t": 6.359
+    }
+   ]
+  },
+  {
+   "id": "low",
+   "text": "At the winter solstice, the Sun reaches its lowest point in the northern sky.",
+   "start": 7.085,
+   "end": 12.377,
+   "words": [
+    {
+     "w": "At",
+     "t": 7.085
+    },
+    {
+     "w": "the",
+     "t": 7.305
+    },
+    {
+     "w": "winter",
+     "t": 7.581
+    },
+    {
+     "w": "solstice,",
+     "t": 8.022
+    },
+    {
+     "w": "the",
+     "t": 8.739
+    },
+    {
+     "w": "Sun",
+     "t": 9.014
+    },
+    {
+     "w": "reaches",
+     "t": 9.29
+    },
+    {
+     "w": "its",
+     "t": 9.786
+    },
+    {
+     "w": "lowest",
+     "t": 10.062
+    },
+    {
+     "w": "point",
+     "t": 10.503
+    },
+    {
+     "w": "in",
+     "t": 10.889
+    },
+    {
+     "w": "the",
+     "t": 11.109
+    },
+    {
+     "w": "northern",
+     "t": 11.385
+    },
+    {
+     "w": "sky.",
+     "t": 11.936
+    }
+   ]
+  },
+  {
+   "id": "newgrange",
+   "text": "Five thousand years ago, Newgrange in Ireland was built so the solstice sunrise fills its inner chamber.",
+   "start": 12.597,
+   "end": 20.465,
+   "words": [
+    {
+     "w": "Five",
+     "t": 12.597
+    },
+    {
+     "w": "thousand",
+     "t": 12.972
+    },
+    {
+     "w": "years",
+     "t": 13.596
+    },
+    {
+     "w": "ago,",
+     "t": 14.033
+    },
+    {
+     "w": "Newgrange",
+     "t": 14.533
+    },
+    {
+     "w": "in",
+     "t": 15.22
+    },
+    {
+     "w": "Ireland",
+     "t": 15.469
+    },
+    {
+     "w": "was",
+     "t": 16.031
+    },
+    {
+     "w": "built",
+     "t": 16.344
+    },
+    {
+     "w": "so",
+     "t": 16.781
+    },
+    {
+     "w": "the",
+     "t": 17.031
+    },
+    {
+     "w": "solstice",
+     "t": 17.343
+    },
+    {
+     "w": "sunrise",
+     "t": 17.967
+    },
+    {
+     "w": "fills",
+     "t": 18.529
+    },
+    {
+     "w": "its",
+     "t": 18.966
+    },
+    {
+     "w": "inner",
+     "t": 19.279
+    },
+    {
+     "w": "chamber.",
+     "t": 19.716
+    }
+   ]
+  },
+  {
+   "id": "stonehenge",
+   "text": "And Stonehenge frames the solstice sunset.",
+   "start": 20.685,
+   "end": 23.469,
+   "words": [
+    {
+     "w": "And",
+     "t": 20.685
+    },
+    {
+     "w": "Stonehenge",
+     "t": 20.958
+    },
+    {
+     "w": "frames",
+     "t": 21.613
+    },
+    {
+     "w": "the",
+     "t": 22.05
+    },
+    {
+     "w": "solstice",
+     "t": 22.323
+    },
+    {
+     "w": "sunset.",
+     "t": 22.868
+    }
+   ]
+  },
+  {
+   "id": "capricorn",
+   "text": "In astrology, this is the moment the Sun enters Capricorn, the sign of slow, steady building.",
+   "start": 23.689,
+   "end": 30.687,
+   "words": [
+    {
+     "w": "In",
+     "t": 23.689
+    },
+    {
+     "w": "astrology,",
+     "t": 23.926
+    },
+    {
+     "w": "this",
+     "t": 24.756
+    },
+    {
+     "w": "is",
+     "t": 25.112
+    },
+    {
+     "w": "the",
+     "t": 25.35
+    },
+    {
+     "w": "moment",
+     "t": 25.646
+    },
+    {
+     "w": "the",
+     "t": 26.121
+    },
+    {
+     "w": "Sun",
+     "t": 26.417
+    },
+    {
+     "w": "enters",
+     "t": 26.714
+    },
+    {
+     "w": "Capricorn,",
+     "t": 27.188
+    },
+    {
+     "w": "the",
+     "t": 28.018
+    },
+    {
+     "w": "sign",
+     "t": 28.315
+    },
+    {
+     "w": "of",
+     "t": 28.671
+    },
+    {
+     "w": "slow,",
+     "t": 28.908
+    },
+    {
+     "w": "steady",
+     "t": 29.442
+    },
+    {
+     "w": "building.",
+     "t": 29.916
+    }
+   ]
+  },
+  {
+   "id": "step1",
+   "title": "LET GO",
+   "glyph": "\u2726",
+   "sub": "step one",
+   "text": "Write down what you're leaving in the dark.",
+   "start": 30.907,
+   "end": 32.991,
+   "words": [
+    {
+     "w": "Write",
+     "t": 30.907
+    },
+    {
+     "w": "down",
+     "t": 31.177
+    },
+    {
+     "w": "what",
+     "t": 31.409
+    },
+    {
+     "w": "you're",
+     "t": 31.64
+    },
+    {
+     "w": "leaving",
+     "t": 31.949
+    },
+    {
+     "w": "in",
+     "t": 32.296
+    },
+    {
+     "w": "the",
+     "t": 32.45
+    },
+    {
+     "w": "dark.",
+     "t": 32.643
+    }
+   ]
+  },
+  {
+   "id": "step2",
+   "title": "LIGHT",
+   "glyph": "\u2726",
+   "sub": "step two",
+   "text": "Light one candle for what you're calling in.",
+   "start": 33.211,
+   "end": 35.71,
+   "words": [
+    {
+     "w": "Light",
+     "t": 33.211
+    },
+    {
+     "w": "one",
+     "t": 33.529
+    },
+    {
+     "w": "candle",
+     "t": 33.756
+    },
+    {
+     "w": "for",
+     "t": 34.119
+    },
+    {
+     "w": "what",
+     "t": 34.347
+    },
+    {
+     "w": "you're",
+     "t": 34.619
+    },
+    {
+     "w": "calling",
+     "t": 34.983
+    },
+    {
+     "w": "in.",
+     "t": 35.392
+    }
+   ]
+  },
+  {
+   "id": "step3",
+   "title": "REST",
+   "glyph": "\u2726",
+   "sub": "step three",
+   "text": "Then rest. Seeds grow in the dark.",
+   "start": 35.93,
+   "end": 38.362,
+   "words": [
+    {
+     "w": "Then",
+     "t": 35.93
+    },
+    {
+     "w": "rest.",
+     "t": 36.247
+    },
+    {
+     "w": "Seeds",
+     "t": 36.723
+    },
+    {
+     "w": "grow",
+     "t": 37.093
+    },
+    {
+     "w": "in",
+     "t": 37.41
+    },
+    {
+     "w": "the",
+     "t": 37.622
+    },
+    {
+     "w": "dark.",
+     "t": 37.886
+    }
+   ]
+  },
+  {
+   "id": "cta",
+   "text": "Save this for the twenty-first, and tell me what you're calling in.",
+   "start": 38.582,
+   "end": 42.743,
+   "words": [
+    {
+     "w": "Save",
+     "t": 38.582
+    },
+    {
+     "w": "this",
+     "t": 38.882
+    },
+    {
+     "w": "for",
+     "t": 39.183
+    },
+    {
+     "w": "the",
+     "t": 39.434
+    },
+    {
+     "w": "twenty-first,",
+     "t": 39.685
+    },
+    {
+     "w": "and",
+     "t": 40.487
+    },
+    {
+     "w": "tell",
+     "t": 40.737
+    },
+    {
+     "w": "me",
+     "t": 41.038
+    },
+    {
+     "w": "what",
+     "t": 41.239
+    },
+    {
+     "w": "you're",
+     "t": 41.54
+    },
+    {
+     "w": "calling",
+     "t": 41.941
+    },
+    {
+     "w": "in.",
+     "t": 42.392
+    }
+   ]
+  }
+ ],
+ "hook": [
+  "THE LONGEST",
+  "night of the",
+  "YEAR"
+ ],
+ "keys": [
+  "longest",
+  "light",
+  "solstice",
+  "sun",
+  "lowest",
+  "newgrange",
+  "sunrise",
+  "stonehenge",
+  "sunset",
+  "capricorn",
+  "building",
+  "dark",
+  "candle",
+  "rest",
+  "seeds"
+ ]
+}
